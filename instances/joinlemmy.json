@@ -1,12 +1,12 @@
 {
-  "crawled_instances": 520,
-  "total_users": 1330747,
-  "users_active_day": 15659,
-  "users_active_week": 28475,
-  "users_active_month": 41995,
-  "users_active_halfyear": 74072,
-  "start_time": "2026-01-28T19:01:35.448853781Z",
-  "end_time": "2026-01-28T19:15:18.830734310Z",
+  "crawled_instances": 513,
+  "total_users": 1330418,
+  "users_active_day": 16047,
+  "users_active_week": 28489,
+  "users_active_month": 41987,
+  "users_active_halfyear": 74047,
+  "start_time": "2026-01-28T23:01:39.545396095Z",
+  "end_time": "2026-01-28T23:15:26.343282734Z",
   "instance_details": [
     {
       "domain": "lemmy.world",
@@ -72,11 +72,11 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 186995,
-            "posts": 609424,
-            "comments": 6005522,
-            "communities": 12840,
-            "users_active_day": 5338,
+            "users": 187014,
+            "posts": 609541,
+            "comments": 6006728,
+            "communities": 12841,
+            "users_active_day": 5888,
             "users_active_week": 10247,
             "users_active_month": 14667,
             "users_active_half_year": 24852
@@ -159,11 +159,11 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 56858,
-            "posts": 189668,
-            "comments": 941875,
-            "communities": 4673,
-            "users_active_day": 803,
+            "users": 56861,
+            "posts": 189691,
+            "comments": 942068,
+            "communities": 4672,
+            "users_active_day": 702,
             "users_active_week": 1333,
             "users_active_month": 2038,
             "users_active_half_year": 3778
@@ -273,11 +273,11 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 8512,
-            "posts": 78218,
-            "comments": 327481,
+            "users": 8518,
+            "posts": 78226,
+            "comments": 327638,
             "communities": 237,
-            "users_active_day": 726,
+            "users_active_day": 750,
             "users_active_week": 1324,
             "users_active_month": 1927,
             "users_active_half_year": 3397
@@ -361,14 +361,14 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 5523,
-            "posts": 58396,
-            "comments": 344173,
+            "users": 5528,
+            "posts": 58410,
+            "comments": 344266,
             "communities": 378,
-            "users_active_day": 790,
-            "users_active_week": 1262,
-            "users_active_month": 1682,
-            "users_active_half_year": 2398
+            "users_active_day": 827,
+            "users_active_week": 1273,
+            "users_active_month": 1688,
+            "users_active_half_year": 2403
           }
         },
         "admins": [],
@@ -488,10 +488,10 @@
           "counts": {
             "site_id": 1,
             "users": 29847,
-            "posts": 399801,
-            "comments": 5321407,
+            "posts": 399860,
+            "comments": 5321853,
             "communities": 138,
-            "users_active_day": 817,
+            "users_active_day": 810,
             "users_active_week": 1206,
             "users_active_month": 1573,
             "users_active_half_year": 2415
@@ -601,11 +601,11 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 12134,
-            "posts": 93104,
-            "comments": 728019,
+            "users": 12139,
+            "posts": 93128,
+            "comments": 728192,
             "communities": 958,
-            "users_active_day": 604,
+            "users_active_day": 632,
             "users_active_week": 1036,
             "users_active_month": 1433,
             "users_active_half_year": 2213
@@ -689,11 +689,11 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 19300,
-            "posts": 56594,
-            "comments": 490450,
+            "users": 19303,
+            "posts": 56606,
+            "comments": 490589,
             "communities": 315,
-            "users_active_day": 573,
+            "users_active_day": 578,
             "users_active_week": 986,
             "users_active_month": 1432,
             "users_active_half_year": 2353
@@ -805,10 +805,10 @@
           "counts": {
             "site_id": 1,
             "users": 10069,
-            "posts": 42004,
-            "comments": 390239,
+            "posts": 42006,
+            "comments": 390330,
             "communities": 352,
-            "users_active_day": 407,
+            "users_active_day": 405,
             "users_active_week": 686,
             "users_active_month": 949,
             "users_active_half_year": 1547
@@ -931,11 +931,11 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 11491,
-            "posts": 23669,
-            "comments": 253175,
+            "users": 11494,
+            "posts": 23674,
+            "comments": 253233,
             "communities": 425,
-            "users_active_day": 296,
+            "users_active_day": 294,
             "users_active_week": 616,
             "users_active_month": 929,
             "users_active_half_year": 1624
@@ -1020,10 +1020,10 @@
           "counts": {
             "site_id": 1,
             "users": 7415,
-            "posts": 24389,
-            "comments": 247470,
+            "posts": 24392,
+            "comments": 247518,
             "communities": 315,
-            "users_active_day": 309,
+            "users_active_day": 319,
             "users_active_week": 586,
             "users_active_month": 805,
             "users_active_half_year": 1196
@@ -1142,10 +1142,10 @@
           "counts": {
             "site_id": 1,
             "users": 10873,
-            "posts": 92608,
-            "comments": 511364,
+            "posts": 92615,
+            "comments": 511404,
             "communities": 713,
-            "users_active_day": 261,
+            "users_active_day": 263,
             "users_active_week": 472,
             "users_active_month": 726,
             "users_active_half_year": 1421
@@ -1266,13 +1266,13 @@
           "counts": {
             "site_id": 1,
             "users": 5696,
-            "posts": 57840,
-            "comments": 270318,
+            "posts": 57874,
+            "comments": 270403,
             "communities": 484,
-            "users_active_day": 238,
-            "users_active_week": 445,
-            "users_active_month": 606,
-            "users_active_half_year": 911
+            "users_active_day": 256,
+            "users_active_week": 447,
+            "users_active_month": 607,
+            "users_active_half_year": 912
           }
         },
         "admins": [],
@@ -1389,9 +1389,9 @@
             "site_id": 1,
             "users": 4584,
             "posts": 32563,
-            "comments": 175970,
+            "comments": 176015,
             "communities": 349,
-            "users_active_day": 189,
+            "users_active_day": 150,
             "users_active_week": 288,
             "users_active_month": 393,
             "users_active_half_year": 633
@@ -1509,10 +1509,10 @@
           "counts": {
             "site_id": 1,
             "users": 2194,
-            "posts": 54742,
-            "comments": 182601,
+            "posts": 54767,
+            "comments": 182638,
             "communities": 139,
-            "users_active_day": 189,
+            "users_active_day": 174,
             "users_active_week": 283,
             "users_active_month": 381,
             "users_active_half_year": 624
@@ -1634,10 +1634,10 @@
           "counts": {
             "site_id": 1,
             "users": 2553,
-            "posts": 11860,
-            "comments": 146953,
+            "posts": 11862,
+            "comments": 146993,
             "communities": 61,
-            "users_active_day": 121,
+            "users_active_day": 122,
             "users_active_week": 214,
             "users_active_month": 335,
             "users_active_half_year": 567
@@ -1756,12 +1756,12 @@
           "counts": {
             "site_id": 1,
             "users": 14134,
-            "posts": 29032,
-            "comments": 245932,
+            "posts": 29035,
+            "comments": 245949,
             "communities": 39,
-            "users_active_day": 98,
-            "users_active_week": 196,
-            "users_active_month": 325,
+            "users_active_day": 111,
+            "users_active_week": 204,
+            "users_active_month": 327,
             "users_active_half_year": 636
           }
         },
@@ -1877,10 +1877,10 @@
           "counts": {
             "site_id": 1,
             "users": 4788,
-            "posts": 22219,
-            "comments": 95654,
+            "posts": 22226,
+            "comments": 95668,
             "communities": 156,
-            "users_active_day": 113,
+            "users_active_day": 112,
             "users_active_week": 205,
             "users_active_month": 318,
             "users_active_half_year": 514
@@ -1999,10 +1999,10 @@
           "counts": {
             "site_id": 1,
             "users": 2965,
-            "posts": 14734,
-            "comments": 289925,
+            "posts": 14737,
+            "comments": 289967,
             "communities": 49,
-            "users_active_day": 161,
+            "users_active_day": 163,
             "users_active_week": 238,
             "users_active_month": 315,
             "users_active_half_year": 515
@@ -2087,10 +2087,10 @@
           "counts": {
             "site_id": 1,
             "users": 5877,
-            "posts": 105821,
-            "comments": 141123,
+            "posts": 105822,
+            "comments": 141159,
             "communities": 260,
-            "users_active_day": 134,
+            "users_active_day": 149,
             "users_active_week": 202,
             "users_active_month": 294,
             "users_active_half_year": 515
@@ -2174,13 +2174,13 @@
           "counts": {
             "site_id": 1,
             "users": 5027,
-            "posts": 20916,
-            "comments": 188846,
+            "posts": 20917,
+            "comments": 188862,
             "communities": 316,
-            "users_active_day": 108,
-            "users_active_week": 203,
-            "users_active_month": 277,
-            "users_active_half_year": 643
+            "users_active_day": 122,
+            "users_active_week": 199,
+            "users_active_month": 275,
+            "users_active_half_year": 642
           }
         },
         "admins": [],
@@ -2299,10 +2299,10 @@
           "counts": {
             "site_id": 1,
             "users": 1937,
-            "posts": 23989,
-            "comments": 103458,
+            "posts": 23990,
+            "comments": 103465,
             "communities": 147,
-            "users_active_day": 116,
+            "users_active_day": 117,
             "users_active_week": 182,
             "users_active_month": 275,
             "users_active_half_year": 450
@@ -2413,10 +2413,10 @@
           "counts": {
             "site_id": 1,
             "users": 3280,
-            "posts": 12805,
-            "comments": 128097,
+            "posts": 12806,
+            "comments": 128117,
             "communities": 154,
-            "users_active_day": 82,
+            "users_active_day": 77,
             "users_active_week": 166,
             "users_active_month": 268,
             "users_active_half_year": 496
@@ -2527,18 +2527,18 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 2517,
-            "posts": 14061,
-            "comments": 99770,
+            "users": 2338,
+            "posts": 14088,
+            "comments": 99808,
             "communities": 113,
-            "users_active_day": 100,
+            "users_active_day": 102,
             "users_active_week": 168,
             "users_active_month": 256,
             "users_active_half_year": 405
           }
         },
         "admins": [],
-        "version": "0.19.11",
+        "version": "0.19.15",
         "all_languages": [],
         "discussion_languages": [],
         "taglines": [],
@@ -2616,13 +2616,13 @@
           "counts": {
             "site_id": 1,
             "users": 982,
-            "posts": 5888,
-            "comments": 58151,
+            "posts": 5891,
+            "comments": 58163,
             "communities": 33,
-            "users_active_day": 78,
-            "users_active_week": 159,
+            "users_active_day": 73,
+            "users_active_week": 160,
             "users_active_month": 218,
-            "users_active_half_year": 303
+            "users_active_half_year": 302
           }
         },
         "admins": [],
@@ -2738,10 +2738,10 @@
           "counts": {
             "site_id": 1,
             "users": 1761,
-            "posts": 19243,
-            "comments": 101206,
+            "posts": 19252,
+            "comments": 101223,
             "communities": 168,
-            "users_active_day": 120,
+            "users_active_day": 121,
             "users_active_week": 144,
             "users_active_month": 199,
             "users_active_half_year": 306
@@ -2864,10 +2864,10 @@
           "counts": {
             "site_id": 1,
             "users": 2435,
-            "posts": 12503,
-            "comments": 46288,
+            "posts": 12504,
+            "comments": 46302,
             "communities": 78,
-            "users_active_day": 50,
+            "users_active_day": 49,
             "users_active_week": 111,
             "users_active_month": 181,
             "users_active_half_year": 342
@@ -2991,10 +2991,10 @@
           "counts": {
             "site_id": 1,
             "users": 1855,
-            "posts": 23193,
-            "comments": 51562,
+            "posts": 23204,
+            "comments": 51581,
             "communities": 112,
-            "users_active_day": 63,
+            "users_active_day": 74,
             "users_active_week": 119,
             "users_active_month": 170,
             "users_active_half_year": 297
@@ -3078,10 +3078,10 @@
           "counts": {
             "site_id": 1,
             "users": 1728,
-            "posts": 22174,
-            "comments": 18526,
+            "posts": 22186,
+            "comments": 18544,
             "communities": 14,
-            "users_active_day": 52,
+            "users_active_day": 46,
             "users_active_week": 101,
             "users_active_month": 157,
             "users_active_half_year": 287
@@ -3198,10 +3198,10 @@
           "counts": {
             "site_id": 1,
             "users": 3643,
-            "posts": 10030,
-            "comments": 90023,
+            "posts": 10033,
+            "comments": 90045,
             "communities": 7,
-            "users_active_day": 66,
+            "users_active_day": 64,
             "users_active_week": 113,
             "users_active_month": 153,
             "users_active_half_year": 244
@@ -3313,10 +3313,10 @@
           "counts": {
             "site_id": 1,
             "users": 1430,
-            "posts": 3164,
-            "comments": 34558,
+            "posts": 3167,
+            "comments": 34566,
             "communities": 44,
-            "users_active_day": 52,
+            "users_active_day": 51,
             "users_active_week": 95,
             "users_active_month": 147,
             "users_active_half_year": 267
@@ -3401,10 +3401,10 @@
           "counts": {
             "site_id": 1,
             "users": 2612,
-            "posts": 48917,
-            "comments": 46823,
+            "posts": 48920,
+            "comments": 46825,
             "communities": 253,
-            "users_active_day": 27,
+            "users_active_day": 34,
             "users_active_week": 73,
             "users_active_month": 116,
             "users_active_half_year": 222
@@ -3528,9 +3528,9 @@
             "site_id": 1,
             "users": 3216,
             "posts": 14617,
-            "comments": 33552,
+            "comments": 33556,
             "communities": 204,
-            "users_active_day": 36,
+            "users_active_day": 34,
             "users_active_week": 66,
             "users_active_month": 103,
             "users_active_half_year": 213
@@ -3614,13 +3614,13 @@
           "counts": {
             "site_id": 1,
             "users": 445,
-            "posts": 120408,
-            "comments": 43502,
+            "posts": 120409,
+            "comments": 43522,
             "communities": 8,
-            "users_active_day": 41,
-            "users_active_week": 67,
-            "users_active_month": 97,
-            "users_active_half_year": 137
+            "users_active_day": 39,
+            "users_active_week": 69,
+            "users_active_month": 98,
+            "users_active_half_year": 138
           }
         },
         "admins": [],
@@ -3741,10 +3741,10 @@
           "counts": {
             "site_id": 1,
             "users": 2411,
-            "posts": 14688,
-            "comments": 48036,
+            "posts": 14689,
+            "comments": 48041,
             "communities": 100,
-            "users_active_day": 31,
+            "users_active_day": 33,
             "users_active_week": 69,
             "users_active_month": 95,
             "users_active_half_year": 171
@@ -3855,9 +3855,9 @@
             "site_id": 1,
             "users": 622,
             "posts": 1785,
-            "comments": 20872,
+            "comments": 20886,
             "communities": 27,
-            "users_active_day": 48,
+            "users_active_day": 59,
             "users_active_week": 81,
             "users_active_month": 94,
             "users_active_half_year": 127
@@ -3982,9 +3982,9 @@
             "site_id": 1,
             "users": 391,
             "posts": 3025,
-            "comments": 7252,
+            "comments": 7253,
             "communities": 124,
-            "users_active_day": 20,
+            "users_active_day": 25,
             "users_active_week": 59,
             "users_active_month": 89,
             "users_active_half_year": 129
@@ -4109,9 +4109,9 @@
             "site_id": 1,
             "users": 1025,
             "posts": 8999,
-            "comments": 53696,
+            "comments": 53704,
             "communities": 9,
-            "users_active_day": 41,
+            "users_active_day": 27,
             "users_active_week": 65,
             "users_active_month": 82,
             "users_active_half_year": 127
@@ -4194,11 +4194,11 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 1764,
-            "posts": 15980,
-            "comments": 29820,
+            "users": 1787,
+            "posts": 15984,
+            "comments": 29836,
             "communities": 35,
-            "users_active_day": 51,
+            "users_active_day": 41,
             "users_active_week": 65,
             "users_active_month": 79,
             "users_active_half_year": 170
@@ -4283,9 +4283,9 @@
             "site_id": 1,
             "users": 1446,
             "posts": 4856,
-            "comments": 28241,
+            "comments": 28245,
             "communities": 60,
-            "users_active_day": 20,
+            "users_active_day": 22,
             "users_active_week": 45,
             "users_active_month": 71,
             "users_active_half_year": 164
@@ -4404,10 +4404,10 @@
             "site_id": 1,
             "users": 2365,
             "posts": 4924,
-            "comments": 18825,
+            "comments": 18830,
             "communities": 27,
-            "users_active_day": 14,
-            "users_active_week": 38,
+            "users_active_day": 15,
+            "users_active_week": 39,
             "users_active_month": 67,
             "users_active_half_year": 152
           }
@@ -4435,7 +4435,7 @@
             "name": "lemmus.org",
             "sidebar": "\n📜 Rules:\n- Be a good neighbor.\n- No porn uploads.\n\nℹ️ Information:\n* Official Support: [/c/lemmy_support](https://sh.itjust.works/c/lemmy_support@lemmy.ml)\n* Find communities:\n  * [browse.feddit.de](https://browse.feddit.de/)\n  * [lemmyverse.net](https://lemmyverse.net/communities)\n* Apps: [join-lemmy.org/apps](https://join-lemmy.org/apps)\n* Search syntax: `!name@server.org`\n  * May take a minute to sync.\n\n❤️ Donations:\n* [Patreon](https://patreon.com/lemmus)",
             "published": "2023-06-13T05:29:29.943340Z",
-            "updated": "2026-01-28T16:52:59.434332Z",
+            "updated": "2026-01-28T22:53:11.957593Z",
             "icon": "https://lemmus.org/pictrs/image/5f43852c-de02-4f35-81ba-cb735d7dc16f.webp",
             "description": "General purpose Lemmy instance. Fast & Free for all to use!",
             "actor_id": "https://lemmus.org/",
@@ -4462,7 +4462,7 @@
             "captcha_enabled": true,
             "captcha_difficulty": "hard",
             "published": "2023-06-13T05:29:30.013596Z",
-            "updated": "2026-01-28T16:52:59.437425Z",
+            "updated": "2026-01-28T22:53:11.960269Z",
             "registration_mode": "RequireApplication",
             "reports_email_admins": true,
             "federation_signed_fetch": false,
@@ -4473,13 +4473,13 @@
             "local_site_id": 1,
             "message": 999,
             "message_per_second": 60,
-            "post": 999,
+            "post": 100,
             "post_per_second": 600,
-            "register": 999,
+            "register": 100,
             "register_per_second": 3600,
-            "image": 999,
+            "image": 100,
             "image_per_second": 3600,
-            "comment": 999,
+            "comment": 100,
             "comment_per_second": 600,
             "search": 999,
             "search_per_second": 600,
@@ -4489,11 +4489,11 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 1025,
-            "posts": 3587,
-            "comments": 12601,
+            "users": 1031,
+            "posts": 3592,
+            "comments": 12610,
             "communities": 10,
-            "users_active_day": 18,
+            "users_active_day": 19,
             "users_active_week": 32,
             "users_active_month": 49,
             "users_active_half_year": 69
@@ -4605,9 +4605,9 @@
             "site_id": 1,
             "users": 982,
             "posts": 2292,
-            "comments": 17673,
+            "comments": 17674,
             "communities": 59,
-            "users_active_day": 21,
+            "users_active_day": 20,
             "users_active_week": 34,
             "users_active_month": 48,
             "users_active_half_year": 93
@@ -4692,8 +4692,8 @@
           "counts": {
             "site_id": 1,
             "users": 9494,
-            "posts": 2993,
-            "comments": 41765,
+            "posts": 2994,
+            "comments": 41808,
             "communities": 50,
             "users_active_day": 22,
             "users_active_week": 30,
@@ -4818,7 +4818,7 @@
             "site_id": 1,
             "users": 511,
             "posts": 817,
-            "comments": 7671,
+            "comments": 7675,
             "communities": 16,
             "users_active_day": 15,
             "users_active_week": 31,
@@ -4865,343 +4865,6 @@
             "zh-CN": "欧洲"
           }
         }
-      }
-    },
-    {
-      "domain": "sinistraverso.org",
-      "site_info": {
-        "site_view": {
-          "site": {
-            "id": 1,
-            "name": "Sinistraverso",
-            "sidebar": "Il SinistraVerso è uno spazio intersezionale che richiede cura e rispetto reciproci. Anche se da parte di qualcun* non c'è ancora una piena consapevolezza o una presa di posizione forte riguardo a determinate lotte, è fondamentale che ci sia almeno apertura verso le critiche e disponibilità a mettersi in una posizione di ascolto.\n",
-            "published": "2025-10-15T14:20:51.077930Z",
-            "updated": "2025-11-26T22:06:57.498518Z",
-            "icon": "https://sinistraverso.org/pictrs/image/5cf7099d-c4cf-4858-8eb9-c08827de34d2.png",
-            "banner": "https://sinistraverso.org/pictrs/image/882d3e29-6417-4625-9b24-d2006d128fc3.jpeg",
-            "description": "Il punto di aggregazione della sinistra accelerazionista!",
-            "actor_id": "http://sinistraverso.org/",
-            "last_refreshed_at": "2025-10-15T14:20:51.075222Z",
-            "inbox_url": "http://sinistraverso.org/inbox",
-            "public_key": "",
-            "instance_id": 1
-          },
-          "local_site": {
-            "id": 1,
-            "site_id": 1,
-            "site_setup": true,
-            "enable_downvotes": true,
-            "enable_nsfw": true,
-            "community_creation_admin_only": true,
-            "require_email_verification": false,
-            "private_instance": true,
-            "default_theme": "litely",
-            "default_post_listing_type": "Local",
-            "hide_modlog_mod_names": true,
-            "application_email_admins": false,
-            "actor_name_max_length": 20,
-            "federation_enabled": false,
-            "captcha_enabled": false,
-            "captcha_difficulty": "medium",
-            "published": "2025-10-15T14:20:51.097473Z",
-            "updated": "2025-11-26T22:06:57.507085Z",
-            "registration_mode": "RequireApplication",
-            "reports_email_admins": false,
-            "federation_signed_fetch": false,
-            "default_post_listing_mode": "List",
-            "default_sort_type": "Active"
-          },
-          "local_site_rate_limit": {
-            "local_site_id": 1,
-            "message": 180,
-            "message_per_second": 60,
-            "post": 100,
-            "post_per_second": 600,
-            "register": 10,
-            "register_per_second": 30,
-            "image": 100,
-            "image_per_second": 600,
-            "comment": 100,
-            "comment_per_second": 600,
-            "search": 100,
-            "search_per_second": 600,
-            "published": "2025-10-15T14:20:51.099163Z",
-            "import_user_settings": 1,
-            "import_user_settings_per_second": 86400
-          },
-          "counts": {
-            "site_id": 1,
-            "users": 182,
-            "posts": 127,
-            "comments": 794,
-            "communities": 1,
-            "users_active_day": 16,
-            "users_active_week": 25,
-            "users_active_month": 36,
-            "users_active_half_year": 60
-          }
-        },
-        "admins": [],
-        "version": "0.19.13",
-        "all_languages": [],
-        "discussion_languages": [],
-        "taglines": [],
-        "custom_emojis": [],
-        "blocked_urls": []
-      },
-      "geo_ip": {
-        "city": {
-          "geoname_id": 3169070,
-          "names": {
-            "de": "Rom",
-            "en": "Rome",
-            "es": "Roma",
-            "fr": "Rome",
-            "ja": "ローマ",
-            "pt-BR": "Roma",
-            "ru": "Рим",
-            "zh-CN": "罗马市"
-          }
-        },
-        "country": {
-          "geoname_id": 3175395,
-          "is_in_european_union": true,
-          "iso_code": "IT",
-          "names": {
-            "de": "Italien",
-            "en": "Italy",
-            "es": "Italia",
-            "fr": "Italie",
-            "ja": "イタリア共和国",
-            "pt-BR": "Itália",
-            "ru": "Италия",
-            "zh-CN": "意大利"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        }
-      }
-    },
-    {
-      "domain": "eviltoast.org",
-      "site_info": {
-        "site_view": {
-          "site": {
-            "id": 1,
-            "name": "eviltoast",
-            "sidebar": "🍞 Welcome to EvilToast.org! 🍞\n\nCraving some crispy discussions? You're in the right place! EvilToast is a sizzling hot Lemmy instance for enthusiasts who like their conversations golden brown and delightfully diverse.\n\n🕹️🤖 Topics we butter up include technology, video games, anime, programming, security, privacy, retro treasures, and much more! We’re also toasting to the beat with vibrant fandoms, K-pop, Doctor Who, Zelda, Halo, and whatever else you’d like to spread on the table.\n\n🧈 Instance and Community Guidelines:\n\n-    Keep your crumbs clean - No spam or low-effort posts.\n-    Don’t burn the toast - Be respectful and avoid offensive content.\n-    Don't spread the illegal jams - Ensure content adheres to the law and doesn't endanger the community.\n-    Share the butter - Contribute positively and help each other out.\n-    Slice it nicely - Stay on topic and keep discussions focused.\n-    Public Toasting Grounds - Remember, everything you post is as public as a toast popping up! Content is shared with other instances, so once it's out, consider it part of the digital breakfast table forever.\n\nGet ready to sink your teeth into some scrumptiously geeky discussions! Whether you're a seasoned tech veteran or just popping out of the toaster, there's a seat for you at the breakfast table.\n\nLet’s get toasting! 🍞💥",
-            "published": "2023-06-11T04:51:43.269792Z",
-            "updated": "2025-04-12T05:28:50.795751Z",
-            "icon": "https://eviltoast.org/pictrs/image/f8099b5e-9896-495f-bef7-d7bfc97884f3.png",
-            "description": "EvilToast.org is a dynamic online community dedicated to fostering insightful discussions and knowledge sharing across technology, gaming, programming",
-            "actor_id": "https://eviltoast.org/",
-            "last_refreshed_at": "2023-06-11T04:51:42.895063Z",
-            "inbox_url": "https://eviltoast.org/inbox",
-            "public_key": "",
-            "instance_id": 1
-          },
-          "local_site": {
-            "id": 1,
-            "site_id": 1,
-            "site_setup": true,
-            "enable_downvotes": true,
-            "enable_nsfw": true,
-            "community_creation_admin_only": false,
-            "require_email_verification": true,
-            "private_instance": false,
-            "default_theme": "darkly",
-            "default_post_listing_type": "All",
-            "hide_modlog_mod_names": true,
-            "application_email_admins": true,
-            "actor_name_max_length": 32,
-            "federation_enabled": true,
-            "captcha_enabled": false,
-            "captcha_difficulty": "easy",
-            "published": "2023-06-11T04:52:05.356832Z",
-            "updated": "2025-04-12T05:28:50.796833Z",
-            "registration_mode": "RequireApplication",
-            "reports_email_admins": true,
-            "federation_signed_fetch": false,
-            "default_post_listing_mode": "List",
-            "default_sort_type": "Active"
-          },
-          "local_site_rate_limit": {
-            "local_site_id": 1,
-            "message": 999,
-            "message_per_second": 60,
-            "post": 999,
-            "post_per_second": 600,
-            "register": 999,
-            "register_per_second": 3600,
-            "image": 999,
-            "image_per_second": 3600,
-            "comment": 999,
-            "comment_per_second": 600,
-            "search": 999,
-            "search_per_second": 600,
-            "published": "2023-06-11T04:52:05.528804Z",
-            "import_user_settings": 1,
-            "import_user_settings_per_second": 86400
-          },
-          "counts": {
-            "site_id": 1,
-            "users": 496,
-            "posts": 608,
-            "comments": 6721,
-            "communities": 15,
-            "users_active_day": 11,
-            "users_active_week": 24,
-            "users_active_month": 36,
-            "users_active_half_year": 56
-          }
-        },
-        "admins": [],
-        "version": "0.19.15",
-        "all_languages": [],
-        "discussion_languages": [],
-        "taglines": [],
-        "custom_emojis": [],
-        "blocked_urls": []
-      },
-      "geo_ip": {
-        "city": {
-          "geoname_id": 5216986,
-          "names": {
-            "de": "Valley Forge",
-            "en": "Valley Forge",
-            "fr": "Valley Forge",
-            "ja": "ヴァリー・フォージ",
-            "zh-CN": "福吉谷"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        }
-      }
-    },
-    {
-      "domain": "lemmy.myserv.one",
-      "site_info": {
-        "site_view": {
-          "site": {
-            "id": 1,
-            "name": "Lemmy Myserv one",
-            "sidebar": "Lemmy users are encouraged to use this instance to browse the fediverse. Its designed to help keep other Lemmy instances fast and working. If they go down you can still access other Lemmy communities. As this Lemmy instance is designed for users, not communities none are hosted here, it’s unlikely to be defederated and generally stays connected to a wide range of other Lemmy servers.\n\nYou can create an account here to explore and interact with communities across the fediverse while helping reduce traffic on busier instances. It also makes a great backup account if your main instance goes offline.\n\nServer is reliable and easily run and maintained by keeping everything as simple/cheap as possible wherever I can. Downtime is expected to be minimal due to the design, however there are no bells or whistles. This is a cheap to run instance, and I wont let costs run away.\n\nBlocked instances are any instances that host illegal content I am notified about or spam/troll etc. and is pulled from FediNuke.txt that many instances use to block hostile servers. Nothing more, just don't want a hard time. Don't get onto that list. I don't maintain it, I just use it.\nRules are don't be an idiot and make our lives hard basically or troll/be racist/do illegal stuff. I just want things to be simple. \n\nIf any content is found that is questionable or illegal or any of the usual stuff just report it and it can be deleted. If any admin from another instance needs me to ban any user or bot account just contact me. Happy to remove fake or evil accounts. I like to keep things simple as I said. No drama = everyone is happy. If you act like an idiot = ban. If you make me not like you = ban. \n\nWe engage in active moderation against harassment, bullying, racism, discrimination, transphobia, hate speech, violation of privacy threats of violence and illegal activity. If this sounds unfair, please do not join this server.\n\nAny problems just create a support thread or message user ‘Thief’ for help. \nIf you cant create a thread email me at: admin at myserv dot one\n\nTerms of use note/TOS : As we cant risk being defederated from lemmy.world our TOS is the same as lemmy.world as found here: https://legal.lemmy.world/tos/",
-            "published": "2023-06-30T15:07:57.247025Z",
-            "updated": "2025-10-08T18:20:27.524040Z",
-            "icon": "https://lemmy.myserv.one/api/v3/image_proxy?url=https%3A%2F%2Fi.imgur.com%2F3tSHsoS.jpg",
-            "banner": "https://lemmy.myserv.one/pictrs/image/16823950-261b-40d2-a598-966fd34f4f15.webp",
-            "description": "Users are encouraged to join this Lemmy Server. This Lemmy server was setup to help reduce load on other Lemmy servers.",
-            "actor_id": "https://lemmy.myserv.one/",
-            "last_refreshed_at": "2023-06-30T15:07:57.240594Z",
-            "inbox_url": "https://lemmy.myserv.one/inbox",
-            "public_key": "",
-            "instance_id": 1
-          },
-          "local_site": {
-            "id": 1,
-            "site_id": 1,
-            "site_setup": true,
-            "enable_downvotes": true,
-            "enable_nsfw": true,
-            "community_creation_admin_only": true,
-            "require_email_verification": true,
-            "private_instance": false,
-            "default_theme": "darkly",
-            "default_post_listing_type": "All",
-            "hide_modlog_mod_names": true,
-            "application_email_admins": true,
-            "actor_name_max_length": 20,
-            "federation_enabled": true,
-            "captcha_enabled": true,
-            "captcha_difficulty": "hard",
-            "published": "2023-06-30T15:07:57.359049Z",
-            "updated": "2025-10-08T18:20:27.548069Z",
-            "registration_mode": "RequireApplication",
-            "reports_email_admins": true,
-            "federation_signed_fetch": false,
-            "default_post_listing_mode": "List",
-            "default_sort_type": "Active"
-          },
-          "local_site_rate_limit": {
-            "local_site_id": 1,
-            "message": 450,
-            "message_per_second": 650,
-            "post": 450,
-            "post_per_second": 650,
-            "register": 450,
-            "register_per_second": 3650,
-            "image": 450,
-            "image_per_second": 3650,
-            "comment": 450,
-            "comment_per_second": 650,
-            "search": 450,
-            "search_per_second": 650,
-            "published": "2023-06-30T15:07:57.363080Z",
-            "import_user_settings": 1,
-            "import_user_settings_per_second": 86400
-          },
-          "counts": {
-            "site_id": 1,
-            "users": 624,
-            "posts": 710,
-            "comments": 9730,
-            "communities": 1,
-            "users_active_day": 10,
-            "users_active_week": 19,
-            "users_active_month": 36,
-            "users_active_half_year": 86
-          }
-        },
-        "admins": [],
-        "version": "0.19.14",
-        "all_languages": [],
-        "discussion_languages": [],
-        "taglines": [],
-        "custom_emojis": [],
-        "blocked_urls": []
-      },
-      "geo_ip": {
-        "city": {},
-        "country": {},
-        "continent": {}
       }
     },
     {
@@ -5320,6 +4983,343 @@
       }
     },
     {
+      "domain": "eviltoast.org",
+      "site_info": {
+        "site_view": {
+          "site": {
+            "id": 1,
+            "name": "eviltoast",
+            "sidebar": "🍞 Welcome to EvilToast.org! 🍞\n\nCraving some crispy discussions? You're in the right place! EvilToast is a sizzling hot Lemmy instance for enthusiasts who like their conversations golden brown and delightfully diverse.\n\n🕹️🤖 Topics we butter up include technology, video games, anime, programming, security, privacy, retro treasures, and much more! We’re also toasting to the beat with vibrant fandoms, K-pop, Doctor Who, Zelda, Halo, and whatever else you’d like to spread on the table.\n\n🧈 Instance and Community Guidelines:\n\n-    Keep your crumbs clean - No spam or low-effort posts.\n-    Don’t burn the toast - Be respectful and avoid offensive content.\n-    Don't spread the illegal jams - Ensure content adheres to the law and doesn't endanger the community.\n-    Share the butter - Contribute positively and help each other out.\n-    Slice it nicely - Stay on topic and keep discussions focused.\n-    Public Toasting Grounds - Remember, everything you post is as public as a toast popping up! Content is shared with other instances, so once it's out, consider it part of the digital breakfast table forever.\n\nGet ready to sink your teeth into some scrumptiously geeky discussions! Whether you're a seasoned tech veteran or just popping out of the toaster, there's a seat for you at the breakfast table.\n\nLet’s get toasting! 🍞💥",
+            "published": "2023-06-11T04:51:43.269792Z",
+            "updated": "2025-04-12T05:28:50.795751Z",
+            "icon": "https://eviltoast.org/pictrs/image/f8099b5e-9896-495f-bef7-d7bfc97884f3.png",
+            "description": "EvilToast.org is a dynamic online community dedicated to fostering insightful discussions and knowledge sharing across technology, gaming, programming",
+            "actor_id": "https://eviltoast.org/",
+            "last_refreshed_at": "2023-06-11T04:51:42.895063Z",
+            "inbox_url": "https://eviltoast.org/inbox",
+            "public_key": "",
+            "instance_id": 1
+          },
+          "local_site": {
+            "id": 1,
+            "site_id": 1,
+            "site_setup": true,
+            "enable_downvotes": true,
+            "enable_nsfw": true,
+            "community_creation_admin_only": false,
+            "require_email_verification": true,
+            "private_instance": false,
+            "default_theme": "darkly",
+            "default_post_listing_type": "All",
+            "hide_modlog_mod_names": true,
+            "application_email_admins": true,
+            "actor_name_max_length": 32,
+            "federation_enabled": true,
+            "captcha_enabled": false,
+            "captcha_difficulty": "easy",
+            "published": "2023-06-11T04:52:05.356832Z",
+            "updated": "2025-04-12T05:28:50.796833Z",
+            "registration_mode": "RequireApplication",
+            "reports_email_admins": true,
+            "federation_signed_fetch": false,
+            "default_post_listing_mode": "List",
+            "default_sort_type": "Active"
+          },
+          "local_site_rate_limit": {
+            "local_site_id": 1,
+            "message": 999,
+            "message_per_second": 60,
+            "post": 999,
+            "post_per_second": 600,
+            "register": 999,
+            "register_per_second": 3600,
+            "image": 999,
+            "image_per_second": 3600,
+            "comment": 999,
+            "comment_per_second": 600,
+            "search": 999,
+            "search_per_second": 600,
+            "published": "2023-06-11T04:52:05.528804Z",
+            "import_user_settings": 1,
+            "import_user_settings_per_second": 86400
+          },
+          "counts": {
+            "site_id": 1,
+            "users": 496,
+            "posts": 608,
+            "comments": 6721,
+            "communities": 15,
+            "users_active_day": 12,
+            "users_active_week": 24,
+            "users_active_month": 36,
+            "users_active_half_year": 56
+          }
+        },
+        "admins": [],
+        "version": "0.19.15",
+        "all_languages": [],
+        "discussion_languages": [],
+        "taglines": [],
+        "custom_emojis": [],
+        "blocked_urls": []
+      },
+      "geo_ip": {
+        "city": {
+          "geoname_id": 5216986,
+          "names": {
+            "de": "Valley Forge",
+            "en": "Valley Forge",
+            "fr": "Valley Forge",
+            "ja": "ヴァリー・フォージ",
+            "zh-CN": "福吉谷"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        }
+      }
+    },
+    {
+      "domain": "sinistraverso.org",
+      "site_info": {
+        "site_view": {
+          "site": {
+            "id": 1,
+            "name": "Sinistraverso",
+            "sidebar": "Il SinistraVerso è uno spazio intersezionale che richiede cura e rispetto reciproci. Anche se da parte di qualcun* non c'è ancora una piena consapevolezza o una presa di posizione forte riguardo a determinate lotte, è fondamentale che ci sia almeno apertura verso le critiche e disponibilità a mettersi in una posizione di ascolto.\n",
+            "published": "2025-10-15T14:20:51.077930Z",
+            "updated": "2025-11-26T22:06:57.498518Z",
+            "icon": "https://sinistraverso.org/pictrs/image/5cf7099d-c4cf-4858-8eb9-c08827de34d2.png",
+            "banner": "https://sinistraverso.org/pictrs/image/882d3e29-6417-4625-9b24-d2006d128fc3.jpeg",
+            "description": "Il punto di aggregazione della sinistra accelerazionista!",
+            "actor_id": "http://sinistraverso.org/",
+            "last_refreshed_at": "2025-10-15T14:20:51.075222Z",
+            "inbox_url": "http://sinistraverso.org/inbox",
+            "public_key": "",
+            "instance_id": 1
+          },
+          "local_site": {
+            "id": 1,
+            "site_id": 1,
+            "site_setup": true,
+            "enable_downvotes": true,
+            "enable_nsfw": true,
+            "community_creation_admin_only": true,
+            "require_email_verification": false,
+            "private_instance": true,
+            "default_theme": "litely",
+            "default_post_listing_type": "Local",
+            "hide_modlog_mod_names": true,
+            "application_email_admins": false,
+            "actor_name_max_length": 20,
+            "federation_enabled": false,
+            "captcha_enabled": false,
+            "captcha_difficulty": "medium",
+            "published": "2025-10-15T14:20:51.097473Z",
+            "updated": "2025-11-26T22:06:57.507085Z",
+            "registration_mode": "RequireApplication",
+            "reports_email_admins": false,
+            "federation_signed_fetch": false,
+            "default_post_listing_mode": "List",
+            "default_sort_type": "Active"
+          },
+          "local_site_rate_limit": {
+            "local_site_id": 1,
+            "message": 180,
+            "message_per_second": 60,
+            "post": 100,
+            "post_per_second": 600,
+            "register": 10,
+            "register_per_second": 30,
+            "image": 100,
+            "image_per_second": 600,
+            "comment": 100,
+            "comment_per_second": 600,
+            "search": 100,
+            "search_per_second": 600,
+            "published": "2025-10-15T14:20:51.099163Z",
+            "import_user_settings": 1,
+            "import_user_settings_per_second": 86400
+          },
+          "counts": {
+            "site_id": 1,
+            "users": 182,
+            "posts": 128,
+            "comments": 799,
+            "communities": 1,
+            "users_active_day": 8,
+            "users_active_week": 25,
+            "users_active_month": 36,
+            "users_active_half_year": 60
+          }
+        },
+        "admins": [],
+        "version": "0.19.13",
+        "all_languages": [],
+        "discussion_languages": [],
+        "taglines": [],
+        "custom_emojis": [],
+        "blocked_urls": []
+      },
+      "geo_ip": {
+        "city": {
+          "geoname_id": 3169070,
+          "names": {
+            "de": "Rom",
+            "en": "Rome",
+            "es": "Roma",
+            "fr": "Rome",
+            "ja": "ローマ",
+            "pt-BR": "Roma",
+            "ru": "Рим",
+            "zh-CN": "罗马市"
+          }
+        },
+        "country": {
+          "geoname_id": 3175395,
+          "is_in_european_union": true,
+          "iso_code": "IT",
+          "names": {
+            "de": "Italien",
+            "en": "Italy",
+            "es": "Italia",
+            "fr": "Italie",
+            "ja": "イタリア共和国",
+            "pt-BR": "Itália",
+            "ru": "Италия",
+            "zh-CN": "意大利"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        }
+      }
+    },
+    {
+      "domain": "lemmy.myserv.one",
+      "site_info": {
+        "site_view": {
+          "site": {
+            "id": 1,
+            "name": "Lemmy Myserv one",
+            "sidebar": "Lemmy users are encouraged to use this instance to browse the fediverse. Its designed to help keep other Lemmy instances fast and working. If they go down you can still access other Lemmy communities. As this Lemmy instance is designed for users, not communities none are hosted here, it’s unlikely to be defederated and generally stays connected to a wide range of other Lemmy servers.\n\nYou can create an account here to explore and interact with communities across the fediverse while helping reduce traffic on busier instances. It also makes a great backup account if your main instance goes offline.\n\nServer is reliable and easily run and maintained by keeping everything as simple/cheap as possible wherever I can. Downtime is expected to be minimal due to the design, however there are no bells or whistles. This is a cheap to run instance, and I wont let costs run away.\n\nBlocked instances are any instances that host illegal content I am notified about or spam/troll etc. and is pulled from FediNuke.txt that many instances use to block hostile servers. Nothing more, just don't want a hard time. Don't get onto that list. I don't maintain it, I just use it.\nRules are don't be an idiot and make our lives hard basically or troll/be racist/do illegal stuff. I just want things to be simple. \n\nIf any content is found that is questionable or illegal or any of the usual stuff just report it and it can be deleted. If any admin from another instance needs me to ban any user or bot account just contact me. Happy to remove fake or evil accounts. I like to keep things simple as I said. No drama = everyone is happy. If you act like an idiot = ban. If you make me not like you = ban. \n\nWe engage in active moderation against harassment, bullying, racism, discrimination, transphobia, hate speech, violation of privacy threats of violence and illegal activity. If this sounds unfair, please do not join this server.\n\nAny problems just create a support thread or message user ‘Thief’ for help. \nIf you cant create a thread email me at: admin at myserv dot one\n\nTerms of use note/TOS : As we cant risk being defederated from lemmy.world our TOS is the same as lemmy.world as found here: https://legal.lemmy.world/tos/",
+            "published": "2023-06-30T15:07:57.247025Z",
+            "updated": "2025-10-08T18:20:27.524040Z",
+            "icon": "https://lemmy.myserv.one/api/v3/image_proxy?url=https%3A%2F%2Fi.imgur.com%2F3tSHsoS.jpg",
+            "banner": "https://lemmy.myserv.one/pictrs/image/16823950-261b-40d2-a598-966fd34f4f15.webp",
+            "description": "Users are encouraged to join this Lemmy Server. This Lemmy server was setup to help reduce load on other Lemmy servers.",
+            "actor_id": "https://lemmy.myserv.one/",
+            "last_refreshed_at": "2023-06-30T15:07:57.240594Z",
+            "inbox_url": "https://lemmy.myserv.one/inbox",
+            "public_key": "",
+            "instance_id": 1
+          },
+          "local_site": {
+            "id": 1,
+            "site_id": 1,
+            "site_setup": true,
+            "enable_downvotes": true,
+            "enable_nsfw": true,
+            "community_creation_admin_only": true,
+            "require_email_verification": true,
+            "private_instance": false,
+            "default_theme": "darkly",
+            "default_post_listing_type": "All",
+            "hide_modlog_mod_names": true,
+            "application_email_admins": true,
+            "actor_name_max_length": 20,
+            "federation_enabled": true,
+            "captcha_enabled": true,
+            "captcha_difficulty": "hard",
+            "published": "2023-06-30T15:07:57.359049Z",
+            "updated": "2025-10-08T18:20:27.548069Z",
+            "registration_mode": "RequireApplication",
+            "reports_email_admins": true,
+            "federation_signed_fetch": false,
+            "default_post_listing_mode": "List",
+            "default_sort_type": "Active"
+          },
+          "local_site_rate_limit": {
+            "local_site_id": 1,
+            "message": 450,
+            "message_per_second": 650,
+            "post": 450,
+            "post_per_second": 650,
+            "register": 450,
+            "register_per_second": 3650,
+            "image": 450,
+            "image_per_second": 3650,
+            "comment": 450,
+            "comment_per_second": 650,
+            "search": 450,
+            "search_per_second": 650,
+            "published": "2023-06-30T15:07:57.363080Z",
+            "import_user_settings": 1,
+            "import_user_settings_per_second": 86400
+          },
+          "counts": {
+            "site_id": 1,
+            "users": 624,
+            "posts": 710,
+            "comments": 9731,
+            "communities": 1,
+            "users_active_day": 11,
+            "users_active_week": 19,
+            "users_active_month": 36,
+            "users_active_half_year": 86
+          }
+        },
+        "admins": [],
+        "version": "0.19.14",
+        "all_languages": [],
+        "discussion_languages": [],
+        "taglines": [],
+        "custom_emojis": [],
+        "blocked_urls": []
+      },
+      "geo_ip": {
+        "city": {},
+        "country": {},
+        "continent": {}
+      }
+    },
+    {
       "domain": "lemmy.pt",
       "site_info": {
         "site_view": {
@@ -5384,9 +5384,9 @@
             "site_id": 1,
             "users": 954,
             "posts": 1497,
-            "comments": 5004,
+            "comments": 5005,
             "communities": 46,
-            "users_active_day": 11,
+            "users_active_day": 8,
             "users_active_week": 22,
             "users_active_month": 29,
             "users_active_half_year": 63
@@ -5598,8 +5598,8 @@
           "counts": {
             "site_id": 1,
             "users": 300,
-            "posts": 40363,
-            "comments": 22536,
+            "posts": 40364,
+            "comments": 22541,
             "communities": 179,
             "users_active_day": 6,
             "users_active_week": 12,
@@ -5720,8 +5720,8 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 565,
-            "posts": 2213,
+            "users": 566,
+            "posts": 2215,
             "comments": 233,
             "communities": 24,
             "users_active_day": 3,
@@ -5843,7 +5843,7 @@
           "counts": {
             "site_id": 1,
             "users": 250,
-            "posts": 14176,
+            "posts": 14183,
             "comments": 8272,
             "communities": 17,
             "users_active_day": 5,
@@ -5970,7 +5970,7 @@
             "posts": 621,
             "comments": 5067,
             "communities": 15,
-            "users_active_day": 6,
+            "users_active_day": 7,
             "users_active_week": 11,
             "users_active_month": 21,
             "users_active_half_year": 39
@@ -6088,8 +6088,8 @@
           "counts": {
             "site_id": 1,
             "users": 301,
-            "posts": 1216,
-            "comments": 7200,
+            "posts": 1234,
+            "comments": 7204,
             "communities": 24,
             "users_active_day": 7,
             "users_active_week": 12,
@@ -6215,10 +6215,10 @@
           "counts": {
             "site_id": 1,
             "users": 122,
-            "posts": 6797,
+            "posts": 6808,
             "comments": 5348,
             "communities": 23,
-            "users_active_day": 9,
+            "users_active_day": 10,
             "users_active_week": 12,
             "users_active_month": 17,
             "users_active_half_year": 36
@@ -6341,8 +6341,8 @@
           "counts": {
             "site_id": 1,
             "users": 227,
-            "posts": 5656,
-            "comments": 16283,
+            "posts": 5662,
+            "comments": 16294,
             "communities": 9,
             "users_active_day": 9,
             "users_active_week": 10,
@@ -6466,10 +6466,10 @@
           "counts": {
             "site_id": 1,
             "users": 273,
-            "posts": 121399,
+            "posts": 121421,
             "comments": 433,
             "communities": 15,
-            "users_active_day": 5,
+            "users_active_day": 6,
             "users_active_week": 9,
             "users_active_month": 15,
             "users_active_half_year": 19
@@ -6487,130 +6487,6 @@
         "city": {},
         "country": {},
         "continent": {}
-      }
-    },
-    {
-      "domain": "lemmy.frozeninferno.xyz",
-      "site_info": {
-        "site_view": {
-          "site": {
-            "id": 1,
-            "name": "Frozen Lemmy",
-            "sidebar": "[![Image](https://fediseer.com/api/v1/badges/guarantees/lemmy.frozeninferno.xyz.svg)](https://gui.fediseer.com/instances/detail/lemmy.frozeninferno.xyz)  \n[![Image](https://fediseer.com/api/v1/badges/endorsements/lemmy.frozeninferno.xyz.svg)](https://gui.fediseer.com/instances/detail/lemmy.frozeninferno.xyz)  \n[![Image](https://uptime.lemmings.world/lemmy.frozeninferno.xyz.svg)](https://stats.uptimerobot.com/yGmNQh6AWZ)\n\n------\n\nThis instance only has a few rules.\n\n1. No illegal shit.\n2. No Nazi shit.\n3. No Tankie shit.\n4. No racist, transphobic, homophobic, or other general bigoted shit.\n5. No **untagged** NSFW shit (tagged is fine).\n6. No loli / pedo shit.\n\n------\n\nBe sure to join [!announcements@lemmy.frozeninferno.xyz](https://lemmy.frozeninferno.xyz/c/announcements) for any important instance news. We don't spam, promise.\n\n------\n\nAny support, instance, or admin related questions should be posted in [!support@lemmy.frozeninferno.xyz](https://lemmy.frozeninferno.xyz/c/support) \n\n------\n\nAlternative front-end Photon available at https://photon.frozeninferno.xyz\n\n------\n\nNow with a new [uptime status page](https://stats.uptimerobot.com/yGmNQh6AWZ)!\n\n------\n\n[Ice icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/ice)",
-            "published": "2023-06-10T02:40:07.199378Z",
-            "updated": "2025-09-22T16:10:23.684152Z",
-            "icon": "https://lemmy.frozeninferno.xyz/pictrs/image/64ddf445-e572-47cd-a274-34858b75870f.png",
-            "description": "A general purpose instance for anything.",
-            "actor_id": "https://lemmy.frozeninferno.xyz/",
-            "last_refreshed_at": "2023-06-10T02:40:07.197817Z",
-            "inbox_url": "https://lemmy.frozeninferno.xyz/inbox",
-            "public_key": "",
-            "instance_id": 1
-          },
-          "local_site": {
-            "id": 1,
-            "site_id": 1,
-            "site_setup": true,
-            "enable_downvotes": true,
-            "enable_nsfw": true,
-            "community_creation_admin_only": false,
-            "require_email_verification": false,
-            "private_instance": false,
-            "default_theme": "browser",
-            "default_post_listing_type": "All",
-            "hide_modlog_mod_names": true,
-            "application_email_admins": false,
-            "actor_name_max_length": 20,
-            "federation_enabled": true,
-            "captcha_enabled": true,
-            "captcha_difficulty": "hard",
-            "published": "2023-06-10T02:40:07.219116Z",
-            "updated": "2025-09-22T16:10:23.689657Z",
-            "registration_mode": "RequireApplication",
-            "reports_email_admins": false,
-            "federation_signed_fetch": false,
-            "default_post_listing_mode": "List",
-            "default_sort_type": "Active"
-          },
-          "local_site_rate_limit": {
-            "local_site_id": 1,
-            "message": 999,
-            "message_per_second": 60,
-            "post": 999,
-            "post_per_second": 600,
-            "register": 999,
-            "register_per_second": 3600,
-            "image": 999,
-            "image_per_second": 3600,
-            "comment": 999,
-            "comment_per_second": 600,
-            "search": 999,
-            "search_per_second": 600,
-            "published": "2023-06-10T02:40:07.221079Z",
-            "import_user_settings": 1,
-            "import_user_settings_per_second": 86400
-          },
-          "counts": {
-            "site_id": 1,
-            "users": 152,
-            "posts": 216,
-            "comments": 3274,
-            "communities": 6,
-            "users_active_day": 9,
-            "users_active_week": 11,
-            "users_active_month": 14,
-            "users_active_half_year": 21
-          }
-        },
-        "admins": [],
-        "version": "0.19.15",
-        "all_languages": [],
-        "discussion_languages": [],
-        "taglines": [],
-        "custom_emojis": [],
-        "blocked_urls": []
-      },
-      "geo_ip": {
-        "city": {
-          "geoname_id": 4706736,
-          "names": {
-            "de": "Little Elm",
-            "en": "Little Elm",
-            "es": "Little Elm",
-            "fr": "Little Elm",
-            "ja": "リトル・エルム",
-            "pt-BR": "Little Elm",
-            "ru": "Литл-Элм"
-          }
-        },
-        "country": {
-          "geoname_id": 6252001,
-          "iso_code": "US",
-          "names": {
-            "de": "USA",
-            "en": "United States",
-            "es": "Estados Unidos",
-            "fr": "États Unis",
-            "ja": "アメリカ",
-            "pt-BR": "EUA",
-            "ru": "США",
-            "zh-CN": "美国"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        }
       }
     },
     {
@@ -6679,9 +6555,9 @@
             "site_id": 1,
             "users": 69,
             "posts": 527,
-            "comments": 614,
+            "comments": 615,
             "communities": 23,
-            "users_active_day": 4,
+            "users_active_day": 5,
             "users_active_week": 9,
             "users_active_month": 14,
             "users_active_half_year": 25
@@ -6722,6 +6598,252 @@
             "pt-BR": "Espanha",
             "ru": "Испания",
             "zh-CN": "西班牙"
+          }
+        },
+        "continent": {
+          "code": "EU",
+          "geoname_id": 6255148,
+          "names": {
+            "de": "Europa",
+            "en": "Europe",
+            "es": "Europa",
+            "fr": "Europe",
+            "ja": "ヨーロッパ",
+            "pt-BR": "Europa",
+            "ru": "Европа",
+            "zh-CN": "欧洲"
+          }
+        }
+      }
+    },
+    {
+      "domain": "lemmy.frozeninferno.xyz",
+      "site_info": {
+        "site_view": {
+          "site": {
+            "id": 1,
+            "name": "Frozen Lemmy",
+            "sidebar": "[![Image](https://fediseer.com/api/v1/badges/guarantees/lemmy.frozeninferno.xyz.svg)](https://gui.fediseer.com/instances/detail/lemmy.frozeninferno.xyz)  \n[![Image](https://fediseer.com/api/v1/badges/endorsements/lemmy.frozeninferno.xyz.svg)](https://gui.fediseer.com/instances/detail/lemmy.frozeninferno.xyz)  \n[![Image](https://uptime.lemmings.world/lemmy.frozeninferno.xyz.svg)](https://stats.uptimerobot.com/yGmNQh6AWZ)\n\n------\n\nThis instance only has a few rules.\n\n1. No illegal shit.\n2. No Nazi shit.\n3. No Tankie shit.\n4. No racist, transphobic, homophobic, or other general bigoted shit.\n5. No **untagged** NSFW shit (tagged is fine).\n6. No loli / pedo shit.\n\n------\n\nBe sure to join [!announcements@lemmy.frozeninferno.xyz](https://lemmy.frozeninferno.xyz/c/announcements) for any important instance news. We don't spam, promise.\n\n------\n\nAny support, instance, or admin related questions should be posted in [!support@lemmy.frozeninferno.xyz](https://lemmy.frozeninferno.xyz/c/support) \n\n------\n\nAlternative front-end Photon available at https://photon.frozeninferno.xyz\n\n------\n\nNow with a new [uptime status page](https://stats.uptimerobot.com/yGmNQh6AWZ)!\n\n------\n\n[Ice icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/ice)",
+            "published": "2023-06-10T02:40:07.199378Z",
+            "updated": "2025-09-22T16:10:23.684152Z",
+            "icon": "https://lemmy.frozeninferno.xyz/pictrs/image/64ddf445-e572-47cd-a274-34858b75870f.png",
+            "description": "A general purpose instance for anything.",
+            "actor_id": "https://lemmy.frozeninferno.xyz/",
+            "last_refreshed_at": "2023-06-10T02:40:07.197817Z",
+            "inbox_url": "https://lemmy.frozeninferno.xyz/inbox",
+            "public_key": "",
+            "instance_id": 1
+          },
+          "local_site": {
+            "id": 1,
+            "site_id": 1,
+            "site_setup": true,
+            "enable_downvotes": true,
+            "enable_nsfw": true,
+            "community_creation_admin_only": false,
+            "require_email_verification": false,
+            "private_instance": false,
+            "default_theme": "browser",
+            "default_post_listing_type": "All",
+            "hide_modlog_mod_names": true,
+            "application_email_admins": false,
+            "actor_name_max_length": 20,
+            "federation_enabled": true,
+            "captcha_enabled": true,
+            "captcha_difficulty": "hard",
+            "published": "2023-06-10T02:40:07.219116Z",
+            "updated": "2025-09-22T16:10:23.689657Z",
+            "registration_mode": "RequireApplication",
+            "reports_email_admins": false,
+            "federation_signed_fetch": false,
+            "default_post_listing_mode": "List",
+            "default_sort_type": "Active"
+          },
+          "local_site_rate_limit": {
+            "local_site_id": 1,
+            "message": 999,
+            "message_per_second": 60,
+            "post": 999,
+            "post_per_second": 600,
+            "register": 999,
+            "register_per_second": 3600,
+            "image": 999,
+            "image_per_second": 3600,
+            "comment": 999,
+            "comment_per_second": 600,
+            "search": 999,
+            "search_per_second": 600,
+            "published": "2023-06-10T02:40:07.221079Z",
+            "import_user_settings": 1,
+            "import_user_settings_per_second": 86400
+          },
+          "counts": {
+            "site_id": 1,
+            "users": 152,
+            "posts": 216,
+            "comments": 3276,
+            "communities": 6,
+            "users_active_day": 8,
+            "users_active_week": 11,
+            "users_active_month": 14,
+            "users_active_half_year": 21
+          }
+        },
+        "admins": [],
+        "version": "0.19.15",
+        "all_languages": [],
+        "discussion_languages": [],
+        "taglines": [],
+        "custom_emojis": [],
+        "blocked_urls": []
+      },
+      "geo_ip": {
+        "city": {
+          "geoname_id": 4706736,
+          "names": {
+            "de": "Little Elm",
+            "en": "Little Elm",
+            "es": "Little Elm",
+            "fr": "Little Elm",
+            "ja": "リトル・エルム",
+            "pt-BR": "Little Elm",
+            "ru": "Литл-Элм"
+          }
+        },
+        "country": {
+          "geoname_id": 6252001,
+          "iso_code": "US",
+          "names": {
+            "de": "USA",
+            "en": "United States",
+            "es": "Estados Unidos",
+            "fr": "États Unis",
+            "ja": "アメリカ",
+            "pt-BR": "EUA",
+            "ru": "США",
+            "zh-CN": "美国"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
+          }
+        }
+      }
+    },
+    {
+      "domain": "lemmy.kde.social",
+      "site_info": {
+        "site_view": {
+          "site": {
+            "id": 1,
+            "name": "KDE Social",
+            "sidebar": "A worldwide technology community 🌍 Creators of the Plasma desktop &amp; a variety of Free and open source applications that let you control your digital life.\n\n---\n**RULES** \n\n1. No Spam, and please link to the source instead of blogs that link to the source.  Blogs are fine as long as they have original content or add significant content to news or issue. \n2. This is a community Lemmy instance so be respectful of other users.\n3. No trolling and no shitposting. Low quality posts and comments will be removed without warning. Repeat offenders will be banned.\n4. Prefer reporting bugs to https://bugs.kde.org/, as KDE developers do not scan lemmy for bug reports.\n5. Avoid comparing and/or disparaging various desktop environments, distros, and/or other FLOSS projects. This instance is for discussing the KDE community and the software it produces, and not about pointless flamewars between open source projects.\n6. No linking to Twitter/X. Links to Twitter/X from posts or comments will be removed and repeat offenders will be banned.\n7. In case of doubt, consult KDE's [Code of conduct](https://kde.org/code-of-conduct/). Violations of the CoC will result in banning.\n---\n\n**KDE** is a commmunity creating free and open source software for desktop and portable computing.  \n\n---\n\n**KDE Websites**\n\n* [KDE Homepage](https://kde.org/)\n* [KDE Planet](https://planet.kde.org/)\n* [KDE Blogs](https://blogs.kde.org/)\n* [KDE Discuss (Forum/Discourse)](https://discuss.kde.org/)\n* [KDE Wikis](https://wiki.kde.org/)\n* [KDE Bug tracker and reporter](https://bugs.kde.org/)\n\n---\n\n**Donate to KDE**\n\n* [Become an official Supporting Member](https://kde.org/fundraisers/plasma6member/)\n\n* [Help fund KDE projects with a one-off donation](https://kde.org/fundraisers/yearend2022/)\n\n---\n\n**Want to contribute to KDE?**\n\nFor starters:\n\n* The best way to start contributing is to contact the community over [Matrix](https://community.kde.org/Matrix) and [IRC](https://userbase.kde.org/IRC_Channels)\n\n* At first sight, it might seem a bit hard to interact in those groups. That's okay! Join them first, see how things are done, mention your interest and where you'd like to work with. We may even find a [mentor](https://community.kde.org/Mentoring) for you!\n\n* The KDE Community develops and distributes open source software. As such, we follow a sort of do-ocracy wherein tasks are done and assigned by contributors themselves. Feel free to pick an area and just start contributing immediately! We're always here to help you along the way. A good way to contribute with code for the first time is to fix an unfixed bug that afflicts you or [assign yourself to junior jobs](https://community.kde.org/KDE/Junior_Jobs) and start working on them.\n\n* It's always nice to collaborate optimally with others in any given setting, but this is especially important for community projects like those following the open source model, so remember to read the [KDE Code of Conduct](https://kde.org/code-of-conduct/).\n\nHere are a few links to help you in your first contributions to KDE:\n\n* [Get Involved](https://community.kde.org/Get_Involved)\n\n* [Your first commit](https://community.kde.org/Infrastructure/GitLab)\n\n* [Write code](https://community.kde.org/Get_Involved/development)\n\n* [Report issues](https://community.kde.org/Get_Involved/Issue_Reporting)\n\n* [Triage bug reports](https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging)\n\n* [Translate software and documentation](https://community.kde.org/Get_Involved/translation)\n\n* [Design applications and icons](https://community.kde.org/Get_Involved/design)\n\n* [Write documentation](https://community.kde.org/Get_Involved/documentation)\n\n* [Manage websites and backends](https://community.kde.org/KDE.org)\n\n* [Support other users](https://community.kde.org/Get_Involved/support)\n\n* [Promote KDE](https://community.kde.org/Get_Involved/promotion)\n\n* [Make KDE software more accessible](https://community.kde.org/Get_Involved/accessibility)\n\n* [Assist with management and organization](https://community.kde.org/Gardening)\n\n* [Update the wikis](https://userbase.kde.org/Tasks_and_Tools)\n\n---\n\nGet started learning QML:\n\n* [The new KDE intro to QML](https://develop.kde.org/docs/plasma/widget/qml/)\n\n* [The original Plasma Developer Guide](https://community.kde.org/Plasma/DeveloperGuide)\n\n* [Test QML code live](https://qmlonline.kde.org/)\n\n* [Comprehensive community book on QML](https://qmlbook.github.io/)\n\n* [The official KDAB YouTube course on QML](https://www.youtube.com/playlist?list=PL6CJYn40gN6hdNC1IGQZfVI707dh9DPRc)\n\n* [The official Qt documentation on QML](https://doc.qt.io/qt-5/qml-tutorial.html)\n\n---\n\nGet started learning C++:\n\n* [The new KDE intro to C++](https://develop.kde.org/docs/getting-started/hello_world/)\n\n* [An app to more easily create apps with a template, KAppTemplate](https://userbase.kde.org/KAppTemplate)\n\n* [The free edX course by New York University](https://www.edx.org/course/introduction-to-programming-in-c)\n\n* [The freemium Codecademy course](https://www.codecademy.com/learn/learn-c-plus-plus)\n\n* [Comprehensive wikibook for C++](https://en.wikibooks.org/wiki/C%2B%2B_Programming)\n\n* [The Wikiversity C++ course](https://en.wikiversity.org/wiki/C%2B%2B)\n\n* [The LearnCPP tutorial website](https://www.learncpp.com/)\n\n* [The CPlusPlus tutorial website](http://www.cplusplus.com/doc/tutorial/)\n\n---\nKDE logo copyright KDE e.V. and Oxygen Icons under the [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.txt)",
+            "published": "2023-06-23T19:06:33.535015Z",
+            "updated": "2025-09-22T21:52:14.397691Z",
+            "icon": "https://lemmy.kde.social/pictrs/image/416bdca5-d1b5-4e23-b772-adcf6ee0e925.png",
+            "banner": "https://lemmy.kde.social/pictrs/image/528ba9b2-1426-4120-9ae3-b060bcfe9d61.jpeg",
+            "description": "Friendly lemmy instance for the KDE community",
+            "actor_id": "https://lemmy.kde.social/",
+            "last_refreshed_at": "2023-06-23T19:14:20.558502Z",
+            "inbox_url": "https://lemmy.kde.social/inbox",
+            "public_key": "",
+            "instance_id": 1
+          },
+          "local_site": {
+            "id": 1,
+            "site_id": 1,
+            "site_setup": true,
+            "enable_downvotes": true,
+            "enable_nsfw": false,
+            "community_creation_admin_only": true,
+            "require_email_verification": false,
+            "private_instance": false,
+            "default_theme": "browser",
+            "default_post_listing_type": "Local",
+            "hide_modlog_mod_names": true,
+            "application_email_admins": false,
+            "actor_name_max_length": 20,
+            "federation_enabled": true,
+            "captcha_enabled": false,
+            "captcha_difficulty": "medium",
+            "published": "2023-06-23T19:06:33.620568Z",
+            "updated": "2025-09-22T21:52:14.412835Z",
+            "registration_mode": "RequireApplication",
+            "reports_email_admins": false,
+            "federation_signed_fetch": false,
+            "default_post_listing_mode": "List",
+            "default_sort_type": "Active"
+          },
+          "local_site_rate_limit": {
+            "local_site_id": 1,
+            "message": 999,
+            "message_per_second": 60,
+            "post": 999,
+            "post_per_second": 600,
+            "register": 999,
+            "register_per_second": 3600,
+            "image": 999,
+            "image_per_second": 3600,
+            "comment": 999,
+            "comment_per_second": 600,
+            "search": 999,
+            "search_per_second": 600,
+            "published": "2023-06-23T19:06:33.623584Z",
+            "import_user_settings": 1,
+            "import_user_settings_per_second": 86400
+          },
+          "counts": {
+            "site_id": 1,
+            "users": 575,
+            "posts": 535,
+            "comments": 4484,
+            "communities": 7,
+            "users_active_day": 4,
+            "users_active_week": 4,
+            "users_active_month": 13,
+            "users_active_half_year": 29
+          }
+        },
+        "admins": [],
+        "version": "0.19.13",
+        "all_languages": [],
+        "discussion_languages": [],
+        "taglines": [],
+        "custom_emojis": [],
+        "blocked_urls": []
+      },
+      "geo_ip": {
+        "city": {
+          "geoname_id": 2927913,
+          "names": {
+            "de": "Falkenstein/Vogtland",
+            "en": "Falkenstein",
+            "ru": "Фалькенштайн"
+          }
+        },
+        "country": {
+          "geoname_id": 2921044,
+          "is_in_european_union": true,
+          "iso_code": "DE",
+          "names": {
+            "de": "Deutschland",
+            "en": "Germany",
+            "es": "Alemania",
+            "fr": "Allemagne",
+            "ja": "ドイツ連邦共和国",
+            "pt-BR": "Alemanha",
+            "ru": "ФРГ",
+            "zh-CN": "德国"
           }
         },
         "continent": {
@@ -6808,7 +6930,7 @@
             "posts": 1237,
             "comments": 1274,
             "communities": 7,
-            "users_active_day": 4,
+            "users_active_day": 3,
             "users_active_week": 8,
             "users_active_month": 13,
             "users_active_half_year": 26
@@ -6826,128 +6948,6 @@
         "city": {},
         "country": {},
         "continent": {}
-      }
-    },
-    {
-      "domain": "lemmy.kde.social",
-      "site_info": {
-        "site_view": {
-          "site": {
-            "id": 1,
-            "name": "KDE Social",
-            "sidebar": "A worldwide technology community 🌍 Creators of the Plasma desktop &amp; a variety of Free and open source applications that let you control your digital life.\n\n---\n**RULES** \n\n1. No Spam, and please link to the source instead of blogs that link to the source.  Blogs are fine as long as they have original content or add significant content to news or issue. \n2. This is a community Lemmy instance so be respectful of other users.\n3. No trolling and no shitposting. Low quality posts and comments will be removed without warning. Repeat offenders will be banned.\n4. Prefer reporting bugs to https://bugs.kde.org/, as KDE developers do not scan lemmy for bug reports.\n5. Avoid comparing and/or disparaging various desktop environments, distros, and/or other FLOSS projects. This instance is for discussing the KDE community and the software it produces, and not about pointless flamewars between open source projects.\n6. No linking to Twitter/X. Links to Twitter/X from posts or comments will be removed and repeat offenders will be banned.\n7. In case of doubt, consult KDE's [Code of conduct](https://kde.org/code-of-conduct/). Violations of the CoC will result in banning.\n---\n\n**KDE** is a commmunity creating free and open source software for desktop and portable computing.  \n\n---\n\n**KDE Websites**\n\n* [KDE Homepage](https://kde.org/)\n* [KDE Planet](https://planet.kde.org/)\n* [KDE Blogs](https://blogs.kde.org/)\n* [KDE Discuss (Forum/Discourse)](https://discuss.kde.org/)\n* [KDE Wikis](https://wiki.kde.org/)\n* [KDE Bug tracker and reporter](https://bugs.kde.org/)\n\n---\n\n**Donate to KDE**\n\n* [Become an official Supporting Member](https://kde.org/fundraisers/plasma6member/)\n\n* [Help fund KDE projects with a one-off donation](https://kde.org/fundraisers/yearend2022/)\n\n---\n\n**Want to contribute to KDE?**\n\nFor starters:\n\n* The best way to start contributing is to contact the community over [Matrix](https://community.kde.org/Matrix) and [IRC](https://userbase.kde.org/IRC_Channels)\n\n* At first sight, it might seem a bit hard to interact in those groups. That's okay! Join them first, see how things are done, mention your interest and where you'd like to work with. We may even find a [mentor](https://community.kde.org/Mentoring) for you!\n\n* The KDE Community develops and distributes open source software. As such, we follow a sort of do-ocracy wherein tasks are done and assigned by contributors themselves. Feel free to pick an area and just start contributing immediately! We're always here to help you along the way. A good way to contribute with code for the first time is to fix an unfixed bug that afflicts you or [assign yourself to junior jobs](https://community.kde.org/KDE/Junior_Jobs) and start working on them.\n\n* It's always nice to collaborate optimally with others in any given setting, but this is especially important for community projects like those following the open source model, so remember to read the [KDE Code of Conduct](https://kde.org/code-of-conduct/).\n\nHere are a few links to help you in your first contributions to KDE:\n\n* [Get Involved](https://community.kde.org/Get_Involved)\n\n* [Your first commit](https://community.kde.org/Infrastructure/GitLab)\n\n* [Write code](https://community.kde.org/Get_Involved/development)\n\n* [Report issues](https://community.kde.org/Get_Involved/Issue_Reporting)\n\n* [Triage bug reports](https://community.kde.org/Guidelines_and_HOWTOs/Bug_triaging)\n\n* [Translate software and documentation](https://community.kde.org/Get_Involved/translation)\n\n* [Design applications and icons](https://community.kde.org/Get_Involved/design)\n\n* [Write documentation](https://community.kde.org/Get_Involved/documentation)\n\n* [Manage websites and backends](https://community.kde.org/KDE.org)\n\n* [Support other users](https://community.kde.org/Get_Involved/support)\n\n* [Promote KDE](https://community.kde.org/Get_Involved/promotion)\n\n* [Make KDE software more accessible](https://community.kde.org/Get_Involved/accessibility)\n\n* [Assist with management and organization](https://community.kde.org/Gardening)\n\n* [Update the wikis](https://userbase.kde.org/Tasks_and_Tools)\n\n---\n\nGet started learning QML:\n\n* [The new KDE intro to QML](https://develop.kde.org/docs/plasma/widget/qml/)\n\n* [The original Plasma Developer Guide](https://community.kde.org/Plasma/DeveloperGuide)\n\n* [Test QML code live](https://qmlonline.kde.org/)\n\n* [Comprehensive community book on QML](https://qmlbook.github.io/)\n\n* [The official KDAB YouTube course on QML](https://www.youtube.com/playlist?list=PL6CJYn40gN6hdNC1IGQZfVI707dh9DPRc)\n\n* [The official Qt documentation on QML](https://doc.qt.io/qt-5/qml-tutorial.html)\n\n---\n\nGet started learning C++:\n\n* [The new KDE intro to C++](https://develop.kde.org/docs/getting-started/hello_world/)\n\n* [An app to more easily create apps with a template, KAppTemplate](https://userbase.kde.org/KAppTemplate)\n\n* [The free edX course by New York University](https://www.edx.org/course/introduction-to-programming-in-c)\n\n* [The freemium Codecademy course](https://www.codecademy.com/learn/learn-c-plus-plus)\n\n* [Comprehensive wikibook for C++](https://en.wikibooks.org/wiki/C%2B%2B_Programming)\n\n* [The Wikiversity C++ course](https://en.wikiversity.org/wiki/C%2B%2B)\n\n* [The LearnCPP tutorial website](https://www.learncpp.com/)\n\n* [The CPlusPlus tutorial website](http://www.cplusplus.com/doc/tutorial/)\n\n---\nKDE logo copyright KDE e.V. and Oxygen Icons under the [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.txt)",
-            "published": "2023-06-23T19:06:33.535015Z",
-            "updated": "2025-09-22T21:52:14.397691Z",
-            "icon": "https://lemmy.kde.social/pictrs/image/416bdca5-d1b5-4e23-b772-adcf6ee0e925.png",
-            "banner": "https://lemmy.kde.social/pictrs/image/528ba9b2-1426-4120-9ae3-b060bcfe9d61.jpeg",
-            "description": "Friendly lemmy instance for the KDE community",
-            "actor_id": "https://lemmy.kde.social/",
-            "last_refreshed_at": "2023-06-23T19:14:20.558502Z",
-            "inbox_url": "https://lemmy.kde.social/inbox",
-            "public_key": "",
-            "instance_id": 1
-          },
-          "local_site": {
-            "id": 1,
-            "site_id": 1,
-            "site_setup": true,
-            "enable_downvotes": true,
-            "enable_nsfw": false,
-            "community_creation_admin_only": true,
-            "require_email_verification": false,
-            "private_instance": false,
-            "default_theme": "browser",
-            "default_post_listing_type": "Local",
-            "hide_modlog_mod_names": true,
-            "application_email_admins": false,
-            "actor_name_max_length": 20,
-            "federation_enabled": true,
-            "captcha_enabled": false,
-            "captcha_difficulty": "medium",
-            "published": "2023-06-23T19:06:33.620568Z",
-            "updated": "2025-09-22T21:52:14.412835Z",
-            "registration_mode": "RequireApplication",
-            "reports_email_admins": false,
-            "federation_signed_fetch": false,
-            "default_post_listing_mode": "List",
-            "default_sort_type": "Active"
-          },
-          "local_site_rate_limit": {
-            "local_site_id": 1,
-            "message": 999,
-            "message_per_second": 60,
-            "post": 999,
-            "post_per_second": 600,
-            "register": 999,
-            "register_per_second": 3600,
-            "image": 999,
-            "image_per_second": 3600,
-            "comment": 999,
-            "comment_per_second": 600,
-            "search": 999,
-            "search_per_second": 600,
-            "published": "2023-06-23T19:06:33.623584Z",
-            "import_user_settings": 1,
-            "import_user_settings_per_second": 86400
-          },
-          "counts": {
-            "site_id": 1,
-            "users": 575,
-            "posts": 535,
-            "comments": 4484,
-            "communities": 7,
-            "users_active_day": 3,
-            "users_active_week": 4,
-            "users_active_month": 13,
-            "users_active_half_year": 29
-          }
-        },
-        "admins": [],
-        "version": "0.19.13",
-        "all_languages": [],
-        "discussion_languages": [],
-        "taglines": [],
-        "custom_emojis": [],
-        "blocked_urls": []
-      },
-      "geo_ip": {
-        "city": {
-          "geoname_id": 2927913,
-          "names": {
-            "de": "Falkenstein/Vogtland",
-            "en": "Falkenstein",
-            "ru": "Фалькенштайн"
-          }
-        },
-        "country": {
-          "geoname_id": 2921044,
-          "is_in_european_union": true,
-          "iso_code": "DE",
-          "names": {
-            "de": "Deutschland",
-            "en": "Germany",
-            "es": "Alemania",
-            "fr": "Allemagne",
-            "ja": "ドイツ連邦共和国",
-            "pt-BR": "Alemanha",
-            "ru": "ФРГ",
-            "zh-CN": "德国"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
-          }
-        }
       }
     },
     {
@@ -7137,10 +7137,10 @@
           "counts": {
             "site_id": 1,
             "users": 17,
-            "posts": 304,
+            "posts": 306,
             "comments": 165,
             "communities": 6,
-            "users_active_day": 8,
+            "users_active_day": 7,
             "users_active_week": 10,
             "users_active_month": 11,
             "users_active_half_year": 12
@@ -7194,120 +7194,6 @@
             "pt-BR": "Oceania",
             "ru": "Океания",
             "zh-CN": "大洋洲"
-          }
-        }
-      }
-    },
-    {
-      "domain": "aggregatet.org",
-      "site_info": {
-        "site_view": {
-          "site": {
-            "id": 1,
-            "name": "Aggregatet",
-            "sidebar": "Läsa våra [regler för instansen](https://aggregatet.org/post/134).\n\nLäs mer om föreningen på [hemsidan](https://konstellationen.org/).",
-            "published": "2024-03-20T19:08:31.150860Z",
-            "updated": "2025-03-03T07:37:04.692557Z",
-            "banner": "https://aggregatet.org/pictrs/image/3eaa9af1-0ebc-4beb-8076-265663801fa6.webp",
-            "description": "Drivs av Kamratdataföreningen Konstellationen.",
-            "actor_id": "https://aggregatet.org/",
-            "last_refreshed_at": "2024-03-20T19:15:12.636948Z",
-            "inbox_url": "https://aggregatet.org/inbox",
-            "public_key": "",
-            "instance_id": 1
-          },
-          "local_site": {
-            "id": 1,
-            "site_id": 1,
-            "site_setup": true,
-            "enable_downvotes": true,
-            "enable_nsfw": true,
-            "community_creation_admin_only": true,
-            "require_email_verification": true,
-            "private_instance": false,
-            "default_theme": "browser",
-            "default_post_listing_type": "Local",
-            "hide_modlog_mod_names": true,
-            "application_email_admins": true,
-            "actor_name_max_length": 20,
-            "federation_enabled": true,
-            "captcha_enabled": false,
-            "captcha_difficulty": "medium",
-            "published": "2024-03-20T19:08:31.271767Z",
-            "updated": "2025-03-03T07:37:04.739858Z",
-            "registration_mode": "RequireApplication",
-            "reports_email_admins": true,
-            "federation_signed_fetch": false,
-            "default_post_listing_mode": "List",
-            "default_sort_type": "Active"
-          },
-          "local_site_rate_limit": {
-            "local_site_id": 1,
-            "message": 999,
-            "message_per_second": 60,
-            "post": 999,
-            "post_per_second": 600,
-            "register": 999,
-            "register_per_second": 3600,
-            "image": 999,
-            "image_per_second": 3600,
-            "comment": 999,
-            "comment_per_second": 600,
-            "search": 999,
-            "search_per_second": 600,
-            "published": "2024-03-20T19:08:31.273545Z",
-            "import_user_settings": 1,
-            "import_user_settings_per_second": 86400
-          },
-          "counts": {
-            "site_id": 1,
-            "users": 202,
-            "posts": 858,
-            "comments": 2778,
-            "communities": 38,
-            "users_active_day": 2,
-            "users_active_week": 6,
-            "users_active_month": 10,
-            "users_active_half_year": 22
-          }
-        },
-        "admins": [],
-        "version": "0.19.12",
-        "all_languages": [],
-        "discussion_languages": [],
-        "taglines": [],
-        "custom_emojis": [],
-        "blocked_urls": []
-      },
-      "geo_ip": {
-        "city": {},
-        "country": {
-          "geoname_id": 2661886,
-          "is_in_european_union": true,
-          "iso_code": "SE",
-          "names": {
-            "de": "Schweden",
-            "en": "Sweden",
-            "es": "Suecia",
-            "fr": "Suède",
-            "ja": "スウェーデン王国",
-            "pt-BR": "Suécia",
-            "ru": "Швеция",
-            "zh-CN": "瑞典"
-          }
-        },
-        "continent": {
-          "code": "EU",
-          "geoname_id": 6255148,
-          "names": {
-            "de": "Europa",
-            "en": "Europe",
-            "es": "Europa",
-            "fr": "Europe",
-            "ja": "ヨーロッパ",
-            "pt-BR": "Europa",
-            "ru": "Европа",
-            "zh-CN": "欧洲"
           }
         }
       }
@@ -7376,7 +7262,7 @@
           },
           "counts": {
             "site_id": 1,
-            "users": 105,
+            "users": 106,
             "posts": 1567,
             "comments": 589,
             "communities": 18,
@@ -7492,7 +7378,7 @@
             "site_id": 1,
             "users": 21,
             "posts": 21,
-            "comments": 65,
+            "comments": 66,
             "communities": 7,
             "users_active_day": 3,
             "users_active_week": 9,
@@ -7580,7 +7466,7 @@
             "site_id": 1,
             "users": 165,
             "posts": 273,
-            "comments": 1200,
+            "comments": 1201,
             "communities": 1,
             "users_active_day": 2,
             "users_active_week": 3,
@@ -7625,6 +7511,119 @@
             "pt-BR": "Europa",
             "ru": "Европа",
             "zh-CN": "欧洲"
+          }
+        }
+      }
+    },
+    {
+      "domain": "bolha.forum",
+      "site_info": {
+        "site_view": {
+          "site": {
+            "id": 1,
+            "name": "Bolhaverso",
+            "sidebar": "Visit bolha.io to know more about our collective.\nNeed assistance? help@bolha.forum",
+            "published": "2023-07-07T13:55:46.005405Z",
+            "updated": "2025-02-22T02:08:35.593542Z",
+            "banner": "https://bolha.forum/pictrs/image/a98a6812-6513-44b7-9f60-769ed984d1d3.png",
+            "description": "Bolha.io Lemmy Instance",
+            "actor_id": "https://bolha.forum/",
+            "last_refreshed_at": "2023-07-07T14:48:13.360544Z",
+            "inbox_url": "https://bolha.forum/inbox",
+            "public_key": "",
+            "instance_id": 1
+          },
+          "local_site": {
+            "id": 1,
+            "site_id": 1,
+            "site_setup": true,
+            "enable_downvotes": true,
+            "enable_nsfw": true,
+            "community_creation_admin_only": true,
+            "require_email_verification": true,
+            "private_instance": false,
+            "default_theme": "darkly",
+            "default_post_listing_type": "All",
+            "hide_modlog_mod_names": true,
+            "application_email_admins": true,
+            "actor_name_max_length": 20,
+            "federation_enabled": true,
+            "captcha_enabled": true,
+            "captcha_difficulty": "hard",
+            "published": "2023-07-07T13:55:46.108306Z",
+            "updated": "2025-02-22T02:08:35.595712Z",
+            "registration_mode": "RequireApplication",
+            "reports_email_admins": true,
+            "federation_signed_fetch": false,
+            "default_post_listing_mode": "List",
+            "default_sort_type": "Active"
+          },
+          "local_site_rate_limit": {
+            "local_site_id": 1,
+            "message": 999,
+            "message_per_second": 60,
+            "post": 999,
+            "post_per_second": 600,
+            "register": 999,
+            "register_per_second": 3600,
+            "image": 999,
+            "image_per_second": 3600,
+            "comment": 999,
+            "comment_per_second": 600,
+            "search": 999,
+            "search_per_second": 600,
+            "published": "2023-07-07T13:55:46.111410Z",
+            "import_user_settings": 1,
+            "import_user_settings_per_second": 86400
+          },
+          "counts": {
+            "site_id": 1,
+            "users": 76,
+            "posts": 215,
+            "comments": 788,
+            "communities": 24,
+            "users_active_day": 1,
+            "users_active_week": 2,
+            "users_active_month": 7,
+            "users_active_half_year": 12
+          }
+        },
+        "admins": [],
+        "version": "0.19.15",
+        "all_languages": [],
+        "discussion_languages": [],
+        "taglines": [],
+        "custom_emojis": [],
+        "blocked_urls": []
+      },
+      "geo_ip": {
+        "city": {},
+        "country": {
+          "geoname_id": 6251999,
+          "iso_code": "CA",
+          "names": {
+            "de": "Kanada",
+            "en": "Canada",
+            "es": "Canadá",
+            "fr": "Canada",
+            "ja": "カナダ",
+            "pt-BR": "Canadá",
+            "ru": "Канада",
+            "zh-CN": "加拿大"
+          }
+        },
+        "continent": {
+          "code": "NA",
+          "geoname_id": 6255149,
+          "names": {
+            "de": "Nordamerika",
+            "en": "North America",
+            "es": "Norteamérica",
+            "fr": "Amérique du Nord",
+            "ja": "北アメリカ",
+            "pt-BR": "América do Norte",
+            "ru": "Северная Америка",
+            "zh-CN": "北美洲"
           }
         }
       }
@@ -7737,119 +7736,6 @@
             "pt-BR": "EUA",
             "ru": "США",
             "zh-CN": "美国"
-          }
-        },
-        "continent": {
-          "code": "NA",
-          "geoname_id": 6255149,
-          "names": {
-            "de": "Nordamerika",
-            "en": "North America",
-            "es": "Norteamérica",
-            "fr": "Amérique du Nord",
-            "ja": "北アメリカ",
-            "pt-BR": "América do Norte",
-            "ru": "Северная Америка",
-            "zh-CN": "北美洲"
-          }
-        }
-      }
-    },
-    {
-      "domain": "bolha.forum",
-      "site_info": {
-        "site_view": {
-          "site": {
-            "id": 1,
-            "name": "Bolhaverso",
-            "sidebar": "Visit bolha.io to know more about our collective.\nNeed assistance? help@bolha.forum",
-            "published": "2023-07-07T13:55:46.005405Z",
-            "updated": "2025-02-22T02:08:35.593542Z",
-            "banner": "https://bolha.forum/pictrs/image/a98a6812-6513-44b7-9f60-769ed984d1d3.png",
-            "description": "Bolha.io Lemmy Instance",
-            "actor_id": "https://bolha.forum/",
-            "last_refreshed_at": "2023-07-07T14:48:13.360544Z",
-            "inbox_url": "https://bolha.forum/inbox",
-            "public_key": "",
-            "instance_id": 1
-          },
-          "local_site": {
-            "id": 1,
-            "site_id": 1,
-            "site_setup": true,
-            "enable_downvotes": true,
-            "enable_nsfw": true,
-            "community_creation_admin_only": true,
-            "require_email_verification": true,
-            "private_instance": false,
-            "default_theme": "darkly",
-            "default_post_listing_type": "All",
-            "hide_modlog_mod_names": true,
-            "application_email_admins": true,
-            "actor_name_max_length": 20,
-            "federation_enabled": true,
-            "captcha_enabled": true,
-            "captcha_difficulty": "hard",
-            "published": "2023-07-07T13:55:46.108306Z",
-            "updated": "2025-02-22T02:08:35.595712Z",
-            "registration_mode": "RequireApplication",
-            "reports_email_admins": true,
-            "federation_signed_fetch": false,
-            "default_post_listing_mode": "List",
-            "default_sort_type": "Active"
-          },
-          "local_site_rate_limit": {
-            "local_site_id": 1,
-            "message": 999,
-            "message_per_second": 60,
-            "post": 999,
-            "post_per_second": 600,
-            "register": 999,
-            "register_per_second": 3600,
-            "image": 999,
-            "image_per_second": 3600,
-            "comment": 999,
-            "comment_per_second": 600,
-            "search": 999,
-            "search_per_second": 600,
-            "published": "2023-07-07T13:55:46.111410Z",
-            "import_user_settings": 1,
-            "import_user_settings_per_second": 86400
-          },
-          "counts": {
-            "site_id": 1,
-            "users": 76,
-            "posts": 215,
-            "comments": 788,
-            "communities": 24,
-            "users_active_day": 1,
-            "users_active_week": 2,
-            "users_active_month": 7,
-            "users_active_half_year": 12
-          }
-        },
-        "admins": [],
-        "version": "0.19.15",
-        "all_languages": [],
-        "discussion_languages": [],
-        "taglines": [],
-        "custom_emojis": [],
-        "blocked_urls": []
-      },
-      "geo_ip": {
-        "city": {},
-        "country": {
-          "geoname_id": 6251999,
-          "iso_code": "CA",
-          "names": {
-            "de": "Kanada",
-            "en": "Canada",
-            "es": "Canadá",
-            "fr": "Canada",
-            "ja": "カナダ",
-            "pt-BR": "Canadá",
-            "ru": "Канада",
-            "zh-CN": "加拿大"
           }
         },
         "continent": {
@@ -8017,8 +7903,8 @@
           "counts": {
             "site_id": 1,
             "users": 54,
-            "posts": 101,
-            "comments": 243,
+            "posts": 102,
+            "comments": 244,
             "communities": 4,
             "users_active_day": 3,
             "users_active_week": 3,

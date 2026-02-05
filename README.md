@@ -1,7 +1,7 @@
 Lemmy Statistics
 ===
 
-This repository contains statistics which are regularly collected by the [crawler](https://github.com/LemmyNet/lemmy-stats-crawler) on [join-lemmy.org](https://join-lemmy.org/).
+This repository contains statistics which are regularly collected by the [crawler](https://github.com/LemmyNet/lemmy-stats-crawler) on [join-lemmy.org](https://join-lemmy.org/). Historical data is available via git history.
 
 ## Files
 

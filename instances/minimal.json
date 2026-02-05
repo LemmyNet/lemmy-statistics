@@ -1,33 +1,33 @@
 {
   "crawled_instances": 514,
-  "total_users": 1332885,
-  "users_active_day": 16767,
-  "users_active_week": 28318,
-  "users_active_month": 42236,
-  "users_active_halfyear": 74320,
-  "posts": 10596220,
-  "comments": 23253966,
-  "start_time": "2026-02-04T23:01:41.344870097Z",
-  "end_time": "2026-02-04T23:15:26.638116081Z",
+  "total_users": 1331381,
+  "users_active_day": 15287,
+  "users_active_week": 28021,
+  "users_active_month": 42118,
+  "users_active_halfyear": 74232,
+  "posts": 10596271,
+  "comments": 23247712,
+  "start_time": "2026-02-05T03:01:37.821254472Z",
+  "end_time": "2026-02-05T03:15:18.803717042Z",
   "instance_details": [
     {
       "domain": "lemmy.world",
-      "users": 187553,
-      "posts": 615061,
-      "comments": 6043145,
+      "users": 187559,
+      "posts": 615172,
+      "comments": 6044047,
       "communities": 12865,
-      "users_active_day": 6609,
-      "users_active_week": 9966,
-      "users_active_month": 14710,
-      "users_active_half_year": 24921
+      "users_active_day": 5536,
+      "users_active_week": 9948,
+      "users_active_month": 14699,
+      "users_active_half_year": 24925
     },
     {
       "domain": "lemmynsfw.com",
       "users": 74894,
-      "posts": 192028,
-      "comments": 206371,
+      "posts": 192040,
+      "comments": 206405,
       "communities": 2803,
-      "users_active_day": 513,
+      "users_active_day": 518,
       "users_active_week": 1532,
       "users_active_month": 3076,
       "users_active_half_year": 7691
@@ -35,220 +35,220 @@
     {
       "domain": "sh.itjust.works",
       "users": 33352,
-      "posts": 118179,
-      "comments": 1281165,
+      "posts": 118197,
+      "comments": 1281367,
       "communities": 1047,
       "users_active_day": 992,
-      "users_active_week": 1823,
-      "users_active_month": 2544,
-      "users_active_half_year": 4103
+      "users_active_week": 1712,
+      "users_active_month": 2536,
+      "users_active_half_year": 4092
     },
     {
       "domain": "lemmy.ml",
       "users": 56935,
-      "posts": 190546,
-      "comments": 947011,
+      "posts": 190555,
+      "comments": 947158,
       "communities": 4674,
-      "users_active_day": 728,
-      "users_active_week": 1358,
-      "users_active_month": 2053,
-      "users_active_half_year": 3789
+      "users_active_day": 729,
+      "users_active_week": 1365,
+      "users_active_month": 2060,
+      "users_active_half_year": 3787
     },
     {
       "domain": "lemmy.zip",
       "users": 8674,
-      "posts": 78928,
-      "comments": 330660,
+      "posts": 78959,
+      "comments": 330766,
       "communities": 238,
-      "users_active_day": 713,
-      "users_active_week": 1339,
-      "users_active_month": 1957,
-      "users_active_half_year": 3435
+      "users_active_day": 714,
+      "users_active_week": 1327,
+      "users_active_month": 1964,
+      "users_active_half_year": 3446
     },
     {
       "domain": "feddit.org",
       "users": 5598,
-      "posts": 59057,
-      "comments": 348756,
+      "posts": 59064,
+      "comments": 348785,
       "communities": 384,
-      "users_active_day": 752,
-      "users_active_week": 1226,
-      "users_active_month": 1708,
-      "users_active_half_year": 2421
+      "users_active_day": 675,
+      "users_active_week": 1210,
+      "users_active_month": 1702,
+      "users_active_half_year": 2420
     },
     {
       "domain": "hexbear.net",
-      "users": 29862,
-      "posts": 400797,
-      "comments": 5332667,
+      "users": 29863,
+      "posts": 400817,
+      "comments": 5332988,
       "communities": 138,
-      "users_active_day": 757,
-      "users_active_week": 1185,
-      "users_active_month": 1564,
-      "users_active_half_year": 2404
+      "users_active_day": 756,
+      "users_active_week": 1166,
+      "users_active_month": 1553,
+      "users_active_half_year": 2402
     },
     {
       "domain": "lemmy.ca",
       "users": 12192,
-      "posts": 93652,
-      "comments": 733966,
+      "posts": 93668,
+      "comments": 734026,
       "communities": 962,
-      "users_active_day": 697,
-      "users_active_week": 1078,
-      "users_active_month": 1484,
-      "users_active_half_year": 2234
+      "users_active_day": 608,
+      "users_active_week": 1049,
+      "users_active_month": 1475,
+      "users_active_half_year": 2230
     },
     {
       "domain": "lemmy.dbzer0.com",
-      "users": 19348,
-      "posts": 56994,
-      "comments": 495341,
+      "users": 19349,
+      "posts": 57012,
+      "comments": 495439,
       "communities": 315,
-      "users_active_day": 609,
-      "users_active_week": 1009,
-      "users_active_month": 1404,
-      "users_active_half_year": 2349
+      "users_active_day": 603,
+      "users_active_week": 972,
+      "users_active_month": 1392,
+      "users_active_half_year": 2350
     },
     {
       "domain": "lemmy.blahaj.zone",
       "users": 10088,
-      "posts": 42320,
-      "comments": 393461,
+      "posts": 42327,
+      "comments": 393532,
       "communities": 352,
-      "users_active_day": 396,
-      "users_active_week": 695,
-      "users_active_month": 959,
-      "users_active_half_year": 1545
+      "users_active_day": 395,
+      "users_active_week": 689,
+      "users_active_month": 960,
+      "users_active_half_year": 1546
     },
     {
       "domain": "programming.dev",
       "users": 11521,
-      "posts": 23853,
-      "comments": 254899,
+      "posts": 23854,
+      "comments": 254918,
       "communities": 426,
-      "users_active_day": 285,
-      "users_active_week": 606,
-      "users_active_month": 928,
-      "users_active_half_year": 1616
+      "users_active_day": 286,
+      "users_active_week": 604,
+      "users_active_month": 932,
+      "users_active_half_year": 1614
     },
     {
       "domain": "discuss.tchncs.de",
       "users": 7427,
       "posts": 24544,
-      "comments": 248693,
+      "comments": 248708,
       "communities": 316,
-      "users_active_day": 322,
-      "users_active_week": 558,
-      "users_active_month": 794,
-      "users_active_half_year": 1201
+      "users_active_day": 321,
+      "users_active_week": 567,
+      "users_active_month": 800,
+      "users_active_half_year": 1203
     },
     {
       "domain": "lemmygrad.ml",
       "users": 10900,
-      "posts": 92996,
-      "comments": 512990,
+      "posts": 93009,
+      "comments": 513045,
       "communities": 713,
-      "users_active_day": 261,
+      "users_active_day": 278,
       "users_active_week": 455,
-      "users_active_month": 727,
-      "users_active_half_year": 1426
+      "users_active_month": 720,
+      "users_active_half_year": 1429
     },
     {
       "domain": "sopuli.xyz",
       "users": 5704,
-      "posts": 58490,
-      "comments": 272521,
+      "posts": 58497,
+      "comments": 272588,
       "communities": 484,
-      "users_active_day": 375,
-      "users_active_week": 487,
-      "users_active_month": 621,
-      "users_active_half_year": 915
+      "users_active_day": 274,
+      "users_active_week": 460,
+      "users_active_month": 605,
+      "users_active_half_year": 911
     },
     {
       "domain": "feddit.uk",
       "users": 4602,
       "posts": 32722,
-      "comments": 177306,
+      "comments": 177329,
       "communities": 349,
-      "users_active_day": 189,
-      "users_active_week": 287,
-      "users_active_month": 404,
-      "users_active_half_year": 638
+      "users_active_day": 145,
+      "users_active_week": 283,
+      "users_active_month": 400,
+      "users_active_half_year": 636
     },
     {
       "domain": "slrpnk.net",
       "users": 2202,
-      "posts": 55173,
-      "comments": 184140,
+      "posts": 55179,
+      "comments": 184175,
       "communities": 138,
-      "users_active_day": 211,
-      "users_active_week": 294,
-      "users_active_month": 386,
-      "users_active_half_year": 625
+      "users_active_day": 159,
+      "users_active_week": 301,
+      "users_active_month": 388,
+      "users_active_half_year": 627
     },
     {
       "domain": "lemmy.today",
       "users": 2573,
-      "posts": 11975,
-      "comments": 149489,
+      "posts": 11977,
+      "comments": 149535,
       "communities": 61,
-      "users_active_day": 126,
+      "users_active_day": 130,
       "users_active_week": 236,
-      "users_active_month": 350,
-      "users_active_half_year": 574
+      "users_active_month": 351,
+      "users_active_half_year": 575
     },
     {
       "domain": "infosec.pub",
       "users": 4793,
       "posts": 22597,
-      "comments": 96202,
+      "comments": 96226,
       "communities": 156,
-      "users_active_day": 117,
+      "users_active_day": 129,
       "users_active_week": 222,
-      "users_active_month": 322,
-      "users_active_half_year": 517
+      "users_active_month": 321,
+      "users_active_half_year": 518
     },
     {
       "domain": "beehaw.org",
       "users": 14107,
-      "posts": 29154,
-      "comments": 246401,
+      "posts": 29158,
+      "comments": 246415,
       "communities": 39,
-      "users_active_day": 87,
-      "users_active_week": 202,
+      "users_active_day": 93,
+      "users_active_week": 197,
       "users_active_month": 320,
-      "users_active_half_year": 638
+      "users_active_half_year": 635
     },
     {
       "domain": "aussie.zone",
       "users": 2970,
-      "posts": 14838,
-      "comments": 291929,
+      "posts": 14841,
+      "comments": 292007,
       "communities": 49,
-      "users_active_day": 150,
-      "users_active_week": 233,
-      "users_active_month": 318,
+      "users_active_day": 143,
+      "users_active_week": 231,
+      "users_active_month": 313,
       "users_active_half_year": 511
     },
     {
       "domain": "reddthat.com",
       "users": 5882,
-      "posts": 105922,
-      "comments": 142412,
+      "posts": 105924,
+      "comments": 142446,
       "communities": 260,
-      "users_active_day": 114,
-      "users_active_week": 201,
-      "users_active_month": 292,
-      "users_active_half_year": 509
+      "users_active_day": 110,
+      "users_active_week": 200,
+      "users_active_month": 287,
+      "users_active_half_year": 508
     },
     {
       "domain": "lemmy.sdf.org",
       "users": 5035,
       "posts": 21044,
-      "comments": 190026,
+      "comments": 190065,
       "communities": 316,
-      "users_active_day": 120,
-      "users_active_week": 195,
+      "users_active_day": 129,
+      "users_active_week": 196,
       "users_active_month": 285,
       "users_active_half_year": 640
     },
@@ -256,45 +256,45 @@
       "domain": "jlai.lu",
       "users": 1948,
       "posts": 24064,
-      "comments": 103869,
+      "comments": 103871,
       "communities": 147,
-      "users_active_day": 101,
-      "users_active_week": 184,
-      "users_active_month": 277,
+      "users_active_day": 89,
+      "users_active_week": 179,
+      "users_active_month": 273,
       "users_active_half_year": 441
-    },
-    {
-      "domain": "forum.guncadindex.com",
-      "users": 1874,
-      "posts": 693,
-      "comments": 3754,
-      "communities": 19,
-      "users_active_day": 42,
-      "users_active_week": 121,
-      "users_active_month": 272,
-      "users_active_half_year": 707
     },
     {
       "domain": "feddit.nl",
       "users": 3288,
-      "posts": 12843,
-      "comments": 128531,
+      "posts": 12844,
+      "comments": 128536,
       "communities": 154,
-      "users_active_day": 74,
-      "users_active_week": 159,
-      "users_active_month": 268,
+      "users_active_day": 79,
+      "users_active_week": 158,
+      "users_active_month": 269,
       "users_active_half_year": 493
+    },
+    {
+      "domain": "forum.guncadindex.com",
+      "users": 1874,
+      "posts": 694,
+      "comments": 3758,
+      "communities": 19,
+      "users_active_day": 47,
+      "users_active_week": 127,
+      "users_active_month": 266,
+      "users_active_half_year": 709
     },
     {
       "domain": "pawb.social",
       "users": 2356,
-      "posts": 14400,
-      "comments": 100682,
+      "posts": 14403,
+      "comments": 100705,
       "communities": 114,
-      "users_active_day": 115,
-      "users_active_week": 187,
-      "users_active_month": 262,
-      "users_active_half_year": 410
+      "users_active_day": 101,
+      "users_active_week": 185,
+      "users_active_month": 260,
+      "users_active_half_year": 411
     },
     {
       "domain": "feddit.dk",
@@ -302,183 +302,183 @@
       "posts": 5958,
       "comments": 58714,
       "communities": 33,
-      "users_active_day": 71,
-      "users_active_week": 150,
+      "users_active_day": 67,
+      "users_active_week": 151,
       "users_active_month": 231,
       "users_active_half_year": 316
     },
     {
       "domain": "mander.xyz",
       "users": 1768,
-      "posts": 19401,
-      "comments": 101955,
+      "posts": 19409,
+      "comments": 101973,
       "communities": 168,
-      "users_active_day": 86,
-      "users_active_week": 151,
+      "users_active_day": 85,
+      "users_active_week": 153,
       "users_active_month": 203,
-      "users_active_half_year": 304
-    },
-    {
-      "domain": "feddit.it",
-      "users": 2441,
-      "posts": 12566,
-      "comments": 46562,
-      "communities": 79,
-      "users_active_day": 43,
-      "users_active_week": 101,
-      "users_active_month": 170,
-      "users_active_half_year": 335
+      "users_active_half_year": 305
     },
     {
       "domain": "ani.social",
       "users": 1861,
       "posts": 23482,
-      "comments": 52207,
+      "comments": 52213,
       "communities": 113,
-      "users_active_day": 71,
-      "users_active_week": 118,
-      "users_active_month": 169,
-      "users_active_half_year": 303
+      "users_active_day": 67,
+      "users_active_week": 115,
+      "users_active_month": 168,
+      "users_active_half_year": 302
+    },
+    {
+      "domain": "feddit.it",
+      "users": 2441,
+      "posts": 12566,
+      "comments": 46564,
+      "communities": 79,
+      "users_active_day": 43,
+      "users_active_week": 103,
+      "users_active_month": 168,
+      "users_active_half_year": 333
     },
     {
       "domain": "lemmy.wtf",
       "users": 1746,
-      "posts": 22624,
-      "comments": 18927,
+      "posts": 22636,
+      "comments": 18932,
       "communities": 14,
-      "users_active_day": 48,
+      "users_active_day": 47,
       "users_active_week": 95,
       "users_active_month": 164,
-      "users_active_half_year": 290
+      "users_active_half_year": 291
     },
     {
       "domain": "lemmings.world",
       "users": 4559,
-      "posts": 17824,
-      "comments": 95639,
+      "posts": 17825,
+      "comments": 95640,
       "communities": 97,
-      "users_active_day": 62,
-      "users_active_week": 97,
-      "users_active_month": 154,
-      "users_active_half_year": 392
+      "users_active_day": 38,
+      "users_active_week": 92,
+      "users_active_month": 151,
+      "users_active_half_year": 390
     },
     {
       "domain": "startrek.website",
       "users": 3646,
-      "posts": 10103,
-      "comments": 90619,
+      "posts": 10105,
+      "comments": 90640,
       "communities": 7,
       "users_active_day": 68,
-      "users_active_week": 110,
-      "users_active_month": 151,
+      "users_active_week": 108,
+      "users_active_month": 150,
       "users_active_half_year": 242
     },
     {
       "domain": "leminal.space",
       "users": 1434,
       "posts": 3249,
-      "comments": 34944,
+      "comments": 34950,
       "communities": 44,
-      "users_active_day": 65,
-      "users_active_week": 97,
+      "users_active_day": 53,
+      "users_active_week": 99,
       "users_active_month": 148,
       "users_active_half_year": 267
     },
     {
       "domain": "thelemmy.club",
-      "users": 1968,
-      "posts": 16243,
-      "comments": 30244,
+      "users": 1971,
+      "posts": 16252,
+      "comments": 30251,
       "communities": 36,
-      "users_active_day": 35,
-      "users_active_week": 95,
-      "users_active_month": 126,
-      "users_active_half_year": 210
+      "users_active_day": 37,
+      "users_active_week": 88,
+      "users_active_month": 128,
+      "users_active_half_year": 208
     },
     {
       "domain": "szmer.info",
       "users": 2617,
-      "posts": 49007,
+      "posts": 49008,
       "comments": 46905,
       "communities": 253,
-      "users_active_day": 32,
-      "users_active_week": 71,
-      "users_active_month": 118,
+      "users_active_day": 30,
+      "users_active_week": 75,
+      "users_active_month": 122,
       "users_active_half_year": 222
     },
     {
       "domain": "lemmy.org",
       "users": 1013,
       "posts": 1709,
-      "comments": 5480,
+      "comments": 5490,
       "communities": 71,
-      "users_active_day": 9,
-      "users_active_week": 27,
-      "users_active_month": 117,
-      "users_active_half_year": 359
+      "users_active_day": 10,
+      "users_active_week": 29,
+      "users_active_month": 112,
+      "users_active_half_year": 360
     },
     {
       "domain": "ttrpg.network",
       "users": 8554,
       "posts": 7938,
-      "comments": 38805,
+      "comments": 38806,
       "communities": 58,
-      "users_active_day": 17,
-      "users_active_week": 58,
-      "users_active_month": 109,
-      "users_active_half_year": 262
+      "users_active_day": 19,
+      "users_active_week": 57,
+      "users_active_month": 111,
+      "users_active_half_year": 263
     },
     {
       "domain": "awful.systems",
-      "users": 447,
-      "posts": 120420,
-      "comments": 43990,
+      "users": 450,
+      "posts": 120421,
+      "comments": 44001,
       "communities": 8,
-      "users_active_day": 53,
-      "users_active_week": 81,
-      "users_active_month": 102,
+      "users_active_day": 45,
+      "users_active_week": 82,
+      "users_active_month": 103,
       "users_active_half_year": 139
+    },
+    {
+      "domain": "discuss.online",
+      "users": 2417,
+      "posts": 14880,
+      "comments": 48384,
+      "communities": 100,
+      "users_active_day": 41,
+      "users_active_week": 68,
+      "users_active_month": 100,
+      "users_active_half_year": 180
     },
     {
       "domain": "feddit.nu",
       "users": 624,
       "posts": 1794,
-      "comments": 21120,
+      "comments": 21122,
       "communities": 27,
-      "users_active_day": 37,
-      "users_active_week": 78,
-      "users_active_month": 100,
-      "users_active_half_year": 126
-    },
-    {
-      "domain": "discuss.online",
-      "users": 2417,
-      "posts": 14875,
-      "comments": 48375,
-      "communities": 100,
-      "users_active_day": 51,
-      "users_active_week": 66,
+      "users_active_day": 39,
+      "users_active_week": 72,
       "users_active_month": 99,
-      "users_active_half_year": 179
+      "users_active_half_year": 126
     },
     {
       "domain": "lemmy.eco.br",
       "users": 3223,
-      "posts": 14657,
-      "comments": 33675,
+      "posts": 14658,
+      "comments": 33682,
       "communities": 204,
-      "users_active_day": 27,
-      "users_active_week": 53,
-      "users_active_month": 97,
+      "users_active_day": 31,
+      "users_active_week": 52,
+      "users_active_month": 98,
       "users_active_half_year": 209
     },
     {
       "domain": "europe.pub",
       "users": 400,
       "posts": 3029,
-      "comments": 7520,
+      "comments": 7522,
       "communities": 124,
-      "users_active_day": 24,
+      "users_active_day": 23,
       "users_active_week": 45,
       "users_active_month": 87,
       "users_active_half_year": 133
@@ -487,12 +487,12 @@
       "domain": "lemmy.nz",
       "users": 1027,
       "posts": 9041,
-      "comments": 54009,
+      "comments": 54021,
       "communities": 9,
-      "users_active_day": 39,
-      "users_active_week": 69,
+      "users_active_day": 36,
+      "users_active_week": 64,
       "users_active_month": 85,
-      "users_active_half_year": 131
+      "users_active_half_year": 130
     },
     {
       "domain": "lemmy.dorfrollenspiel.de",
@@ -501,18 +501,18 @@
       "comments": 22518,
       "communities": 3,
       "users_active_day": 33,
-      "users_active_week": 51,
+      "users_active_week": 53,
       "users_active_month": 79,
-      "users_active_half_year": 136
+      "users_active_half_year": 138
     },
     {
       "domain": "lemmy.cafe",
       "users": 1144,
-      "posts": 3040,
-      "comments": 33427,
+      "posts": 3041,
+      "comments": 33438,
       "communities": 90,
-      "users_active_day": 36,
-      "users_active_week": 46,
+      "users_active_day": 38,
+      "users_active_week": 48,
       "users_active_month": 72,
       "users_active_half_year": 187
     },
@@ -520,9 +520,9 @@
       "domain": "lemdro.id",
       "users": 2370,
       "posts": 4935,
-      "comments": 18915,
+      "comments": 18920,
       "communities": 27,
-      "users_active_day": 20,
+      "users_active_day": 22,
       "users_active_week": 35,
       "users_active_month": 68,
       "users_active_half_year": 149
@@ -531,12 +531,12 @@
       "domain": "lemy.lol",
       "users": 1447,
       "posts": 4879,
-      "comments": 28453,
+      "comments": 28455,
       "communities": 60,
       "users_active_day": 24,
-      "users_active_week": 37,
+      "users_active_week": 40,
       "users_active_month": 67,
-      "users_active_half_year": 161
+      "users_active_half_year": 160
     },
     {
       "domain": "chatgptjailbreak.tech",
@@ -545,40 +545,40 @@
       "comments": 130,
       "communities": 2,
       "users_active_day": 1,
-      "users_active_week": 18,
-      "users_active_month": 62,
+      "users_active_week": 15,
+      "users_active_month": 61,
       "users_active_half_year": 79
     },
     {
       "domain": "fosscad.io",
       "users": 1389,
       "posts": 68739,
-      "comments": 970430,
+      "comments": 970431,
       "communities": 9,
-      "users_active_day": 5,
-      "users_active_week": 23,
+      "users_active_day": 6,
+      "users_active_week": 24,
       "users_active_month": 59,
-      "users_active_half_year": 212
+      "users_active_half_year": 213
     },
     {
       "domain": "lemmus.org",
-      "users": 1118,
-      "posts": 3684,
-      "comments": 12789,
+      "users": 1124,
+      "posts": 3686,
+      "comments": 12792,
       "communities": 10,
       "users_active_day": 20,
       "users_active_week": 45,
-      "users_active_month": 57,
-      "users_active_half_year": 82
+      "users_active_month": 59,
+      "users_active_half_year": 84
     },
     {
       "domain": "literature.cafe",
       "users": 982,
-      "posts": 2413,
-      "comments": 17809,
+      "posts": 2425,
+      "comments": 17812,
       "communities": 59,
-      "users_active_day": 15,
-      "users_active_week": 31,
+      "users_active_day": 16,
+      "users_active_week": 32,
       "users_active_month": 48,
       "users_active_half_year": 91
     },
@@ -586,20 +586,20 @@
       "domain": "retrolemmy.com",
       "users": 511,
       "posts": 827,
-      "comments": 7926,
+      "comments": 7935,
       "communities": 18,
-      "users_active_day": 11,
-      "users_active_week": 32,
-      "users_active_month": 46,
+      "users_active_day": 14,
+      "users_active_week": 31,
+      "users_active_month": 47,
       "users_active_half_year": 99
     },
     {
       "domain": "feddit.cl",
       "users": 9497,
       "posts": 3014,
-      "comments": 42633,
+      "comments": 42643,
       "communities": 50,
-      "users_active_day": 18,
+      "users_active_day": 16,
       "users_active_week": 28,
       "users_active_month": 43,
       "users_active_half_year": 78
@@ -608,23 +608,34 @@
       "domain": "sinistraverso.org",
       "users": 186,
       "posts": 156,
-      "comments": 898,
+      "comments": 902,
       "communities": 1,
-      "users_active_day": 15,
-      "users_active_week": 27,
-      "users_active_month": 41,
+      "users_active_day": 14,
+      "users_active_week": 28,
+      "users_active_month": 42,
       "users_active_half_year": 64
     },
     {
       "domain": "eviltoast.org",
       "users": 496,
       "posts": 609,
-      "comments": 6740,
+      "comments": 6741,
       "communities": 15,
       "users_active_day": 10,
-      "users_active_week": 23,
+      "users_active_week": 22,
       "users_active_month": 36,
       "users_active_half_year": 56
+    },
+    {
+      "domain": "lemmy.myserv.one",
+      "users": 624,
+      "posts": 723,
+      "comments": 9850,
+      "communities": 1,
+      "users_active_day": 10,
+      "users_active_week": 16,
+      "users_active_month": 35,
+      "users_active_half_year": 85
     },
     {
       "domain": "scribe.disroot.org",
@@ -632,41 +643,19 @@
       "posts": 4095,
       "comments": 3961,
       "communities": 53,
-      "users_active_day": 6,
-      "users_active_week": 21,
-      "users_active_month": 35,
+      "users_active_day": 7,
+      "users_active_week": 19,
+      "users_active_month": 34,
       "users_active_half_year": 78
-    },
-    {
-      "domain": "lemmy.myserv.one",
-      "users": 624,
-      "posts": 723,
-      "comments": 9846,
-      "communities": 1,
-      "users_active_day": 11,
-      "users_active_week": 17,
-      "users_active_month": 35,
-      "users_active_half_year": 85
-    },
-    {
-      "domain": "lemmy.pt",
-      "users": 957,
-      "posts": 1505,
-      "comments": 5050,
-      "communities": 46,
-      "users_active_day": 9,
-      "users_active_week": 18,
-      "users_active_month": 31,
-      "users_active_half_year": 66
     },
     {
       "domain": "hilariouschaos.com",
       "users": 305,
-      "posts": 40526,
-      "comments": 22644,
+      "posts": 40528,
+      "comments": 22646,
       "communities": 179,
       "users_active_day": 5,
-      "users_active_week": 20,
+      "users_active_week": 19,
       "users_active_month": 30,
       "users_active_half_year": 67
     },
@@ -674,23 +663,23 @@
       "domain": "monero.town",
       "users": 753,
       "posts": 2861,
-      "comments": 13839,
+      "comments": 13840,
       "communities": 68,
       "users_active_day": 6,
-      "users_active_week": 9,
+      "users_active_week": 11,
       "users_active_month": 26,
-      "users_active_half_year": 98
+      "users_active_half_year": 99
     },
     {
       "domain": "futurology.today",
       "users": 735,
-      "posts": 2664,
+      "posts": 2665,
       "comments": 5217,
       "communities": 6,
       "users_active_day": 6,
-      "users_active_week": 10,
-      "users_active_month": 25,
-      "users_active_half_year": 65
+      "users_active_week": 11,
+      "users_active_month": 26,
+      "users_active_half_year": 66
     },
     {
       "domain": "lemmy.one",
@@ -698,7 +687,7 @@
       "posts": 4315,
       "comments": 75303,
       "communities": 9,
-      "users_active_day": 6,
+      "users_active_day": 5,
       "users_active_week": 12,
       "users_active_month": 24,
       "users_active_half_year": 71
@@ -707,12 +696,12 @@
       "domain": "lemmy.radio",
       "users": 344,
       "posts": 630,
-      "comments": 5107,
+      "comments": 5109,
       "communities": 15,
-      "users_active_day": 7,
-      "users_active_week": 16,
-      "users_active_month": 21,
-      "users_active_half_year": 37
+      "users_active_day": 11,
+      "users_active_week": 17,
+      "users_active_month": 22,
+      "users_active_half_year": 38
     },
     {
       "domain": "diggita.com",
@@ -720,7 +709,7 @@
       "posts": 2267,
       "comments": 235,
       "communities": 24,
-      "users_active_day": 3,
+      "users_active_day": 2,
       "users_active_week": 6,
       "users_active_month": 21,
       "users_active_half_year": 70
@@ -731,27 +720,27 @@
       "posts": 14259,
       "comments": 8288,
       "communities": 17,
-      "users_active_day": 9,
+      "users_active_day": 10,
       "users_active_week": 14,
-      "users_active_month": 20,
-      "users_active_half_year": 38
+      "users_active_month": 21,
+      "users_active_half_year": 39
     },
     {
-      "domain": "suppo.fi",
-      "users": 302,
-      "posts": 1330,
-      "comments": 7238,
-      "communities": 24,
-      "users_active_day": 4,
-      "users_active_week": 11,
-      "users_active_month": 16,
-      "users_active_half_year": 32
+      "domain": "lemy.nl",
+      "users": 275,
+      "posts": 122299,
+      "comments": 445,
+      "communities": 15,
+      "users_active_day": 5,
+      "users_active_week": 12,
+      "users_active_month": 17,
+      "users_active_half_year": 22
     },
     {
       "domain": "crazypeople.online",
       "users": 123,
-      "posts": 6923,
-      "comments": 5533,
+      "posts": 6924,
+      "comments": 5537,
       "communities": 23,
       "users_active_day": 9,
       "users_active_week": 11,
@@ -762,23 +751,23 @@
       "domain": "lazysoci.al",
       "users": 231,
       "posts": 5702,
-      "comments": 16436,
+      "comments": 16448,
       "communities": 9,
-      "users_active_day": 9,
+      "users_active_day": 10,
       "users_active_week": 11,
       "users_active_month": 15,
       "users_active_half_year": 34
     },
     {
-      "domain": "lemy.nl",
-      "users": 275,
-      "posts": 122292,
-      "comments": 445,
-      "communities": 15,
-      "users_active_day": 5,
+      "domain": "suppo.fi",
+      "users": 302,
+      "posts": 1330,
+      "comments": 7239,
+      "communities": 24,
+      "users_active_day": 4,
       "users_active_week": 11,
       "users_active_month": 15,
-      "users_active_half_year": 20
+      "users_active_half_year": 32
     },
     {
       "domain": "lemmy.frozeninferno.xyz",
@@ -786,21 +775,21 @@
       "posts": 217,
       "comments": 3294,
       "communities": 6,
-      "users_active_day": 8,
+      "users_active_day": 10,
       "users_active_week": 12,
       "users_active_month": 14,
       "users_active_half_year": 21
     },
     {
-      "domain": "lemmy.kde.social",
-      "users": 577,
-      "posts": 540,
-      "comments": 4486,
-      "communities": 7,
+      "domain": "chachara.club",
+      "users": 69,
+      "posts": 533,
+      "comments": 618,
+      "communities": 23,
       "users_active_day": 1,
       "users_active_week": 5,
-      "users_active_month": 14,
-      "users_active_half_year": 28
+      "users_active_month": 13,
+      "users_active_half_year": 25
     },
     {
       "domain": "lemmy.vg",
@@ -812,17 +801,6 @@
       "users_active_week": 8,
       "users_active_month": 13,
       "users_active_half_year": 26
-    },
-    {
-      "domain": "chachara.club",
-      "users": 69,
-      "posts": 533,
-      "comments": 618,
-      "communities": 23,
-      "users_active_day": 1,
-      "users_active_week": 4,
-      "users_active_month": 13,
-      "users_active_half_year": 25
     },
     {
       "domain": "indie-ver.se",
@@ -838,8 +816,8 @@
     {
       "domain": "tabi.gay",
       "users": 18,
-      "posts": 375,
-      "comments": 196,
+      "posts": 376,
+      "comments": 199,
       "communities": 6,
       "users_active_day": 8,
       "users_active_week": 10,
@@ -852,10 +830,21 @@
       "posts": 1573,
       "comments": 593,
       "communities": 18,
-      "users_active_day": 5,
+      "users_active_day": 3,
       "users_active_week": 5,
       "users_active_month": 10,
       "users_active_half_year": 12
+    },
+    {
+      "domain": "r.nf",
+      "users": 901,
+      "posts": 434,
+      "comments": 1328,
+      "communities": 46,
+      "users_active_day": 1,
+      "users_active_week": 4,
+      "users_active_month": 10,
+      "users_active_half_year": 15
     },
     {
       "domain": "mtgzone.com",
@@ -880,17 +869,6 @@
       "users_active_half_year": 22
     },
     {
-      "domain": "lemmy.digdeeper.rodeo",
-      "users": 14,
-      "posts": 25,
-      "comments": 75,
-      "communities": 4,
-      "users_active_day": 5,
-      "users_active_week": 9,
-      "users_active_month": 9,
-      "users_active_half_year": 9
-    },
-    {
       "domain": "toast.ooo",
       "users": 643,
       "posts": 1397,
@@ -902,26 +880,59 @@
       "users_active_half_year": 26
     },
     {
-      "domain": "r.nf",
-      "users": 901,
-      "posts": 434,
-      "comments": 1328,
-      "communities": 46,
+      "domain": "lemmy.digdeeper.rodeo",
+      "users": 14,
+      "posts": 25,
+      "comments": 75,
+      "communities": 4,
       "users_active_day": 3,
-      "users_active_week": 4,
-      "users_active_month": 8,
-      "users_active_half_year": 13
+      "users_active_week": 9,
+      "users_active_month": 9,
+      "users_active_half_year": 9
     },
     {
       "domain": "yall.theatl.social",
       "users": 163,
-      "posts": 31563,
+      "posts": 31566,
       "comments": 1730,
       "communities": 25,
-      "users_active_day": 4,
+      "users_active_day": 3,
       "users_active_week": 6,
       "users_active_month": 7,
       "users_active_half_year": 14
+    },
+    {
+      "domain": "lemmy.4d2.org",
+      "users": 55,
+      "posts": 111,
+      "comments": 262,
+      "communities": 4,
+      "users_active_day": 1,
+      "users_active_week": 4,
+      "users_active_month": 6,
+      "users_active_half_year": 16
+    },
+    {
+      "domain": "lemmy.eus",
+      "users": 532,
+      "posts": 1005,
+      "comments": 1504,
+      "communities": 40,
+      "users_active_day": 2,
+      "users_active_week": 5,
+      "users_active_month": 6,
+      "users_active_half_year": 12
+    },
+    {
+      "domain": "bolha.forum",
+      "users": 76,
+      "posts": 215,
+      "comments": 792,
+      "communities": 24,
+      "users_active_day": 0,
+      "users_active_week": 2,
+      "users_active_month": 6,
+      "users_active_half_year": 12
     },
     {
       "domain": "linux.community",
@@ -946,59 +957,15 @@
       "users_active_half_year": 16
     },
     {
-      "domain": "lemmy.eus",
-      "users": 532,
-      "posts": 1005,
-      "comments": 1504,
-      "communities": 40,
-      "users_active_day": 2,
-      "users_active_week": 5,
-      "users_active_month": 6,
-      "users_active_half_year": 12
-    },
-    {
-      "domain": "lemmy.4d2.org",
-      "users": 55,
-      "posts": 111,
-      "comments": 262,
-      "communities": 4,
-      "users_active_day": 1,
-      "users_active_week": 5,
-      "users_active_month": 6,
-      "users_active_half_year": 17
-    },
-    {
-      "domain": "bolha.forum",
-      "users": 76,
-      "posts": 215,
-      "comments": 792,
-      "communities": 24,
-      "users_active_day": 0,
-      "users_active_week": 2,
-      "users_active_month": 6,
-      "users_active_half_year": 12
-    },
-    {
       "domain": "lemmy.encryptionin.space",
       "users": 6,
       "posts": 14,
-      "comments": 207,
+      "comments": 208,
       "communities": 2,
       "users_active_day": 1,
       "users_active_week": 3,
       "users_active_month": 5,
       "users_active_half_year": 5
-    },
-    {
-      "domain": "rekabu.ru",
-      "users": 57,
-      "posts": 31,
-      "comments": 525,
-      "communities": 6,
-      "users_active_day": 1,
-      "users_active_week": 3,
-      "users_active_month": 5,
-      "users_active_half_year": 8
     },
     {
       "domain": "rblind.com",
@@ -1012,48 +979,15 @@
       "users_active_half_year": 9
     },
     {
-      "domain": "olla.cat",
-      "users": 4,
-      "posts": 4,
-      "comments": 0,
-      "communities": 3,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 4,
-      "users_active_half_year": 4
-    },
-    {
-      "domain": "forum.ayom.media",
-      "users": 54,
-      "posts": 276,
-      "comments": 691,
-      "communities": 33,
-      "users_active_day": 0,
-      "users_active_week": 2,
-      "users_active_month": 4,
-      "users_active_half_year": 13
-    },
-    {
-      "domain": "fed.dyne.org",
-      "users": 40,
-      "posts": 867,
-      "comments": 200,
-      "communities": 8,
+      "domain": "rekabu.ru",
+      "users": 57,
+      "posts": 31,
+      "comments": 525,
+      "communities": 6,
       "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 4,
-      "users_active_half_year": 7
-    },
-    {
-      "domain": "gregtech.eu",
-      "users": 19,
-      "posts": 494,
-      "comments": 2550,
-      "communities": 3,
-      "users_active_day": 2,
-      "users_active_week": 2,
-      "users_active_month": 4,
-      "users_active_half_year": 5
+      "users_active_week": 3,
+      "users_active_month": 5,
+      "users_active_half_year": 8
     },
     {
       "domain": "communick.news",
@@ -1064,27 +998,16 @@
       "users_active_day": 2,
       "users_active_week": 2,
       "users_active_month": 4,
-      "users_active_half_year": 6
+      "users_active_half_year": 5
     },
     {
-      "domain": "lemmy.hogru.ch",
-      "users": 10,
-      "posts": 72,
-      "comments": 2533,
-      "communities": 3,
-      "users_active_day": 2,
-      "users_active_week": 3,
-      "users_active_month": 4,
-      "users_active_half_year": 4
-    },
-    {
-      "domain": "realbitcoin.cash",
-      "users": 70,
-      "posts": 764,
-      "comments": 1167,
-      "communities": 14,
-      "users_active_day": 3,
-      "users_active_week": 2,
+      "domain": "forum.ayom.media",
+      "users": 54,
+      "posts": 276,
+      "comments": 691,
+      "communities": 33,
+      "users_active_day": 0,
+      "users_active_week": 0,
       "users_active_month": 4,
       "users_active_half_year": 13
     },
@@ -1100,26 +1023,70 @@
       "users_active_half_year": 5
     },
     {
-      "domain": "poptalk.scrubbles.tech",
-      "users": 44,
-      "posts": 726,
-      "comments": 9467,
-      "communities": 7,
-      "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 3,
+      "domain": "lemmy.hogru.ch",
+      "users": 10,
+      "posts": 72,
+      "comments": 2533,
+      "communities": 3,
+      "users_active_day": 2,
+      "users_active_week": 3,
+      "users_active_month": 4,
       "users_active_half_year": 4
     },
     {
-      "domain": "lemmy.billiam.net",
-      "users": 7,
-      "posts": 10,
-      "comments": 782,
-      "communities": 1,
+      "domain": "olla.cat",
+      "users": 4,
+      "posts": 4,
+      "comments": 0,
+      "communities": 3,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 4,
+      "users_active_half_year": 4
+    },
+    {
+      "domain": "gregtech.eu",
+      "users": 19,
+      "posts": 494,
+      "comments": 2550,
+      "communities": 3,
+      "users_active_day": 2,
+      "users_active_week": 2,
+      "users_active_month": 4,
+      "users_active_half_year": 5
+    },
+    {
+      "domain": "fed.dyne.org",
+      "users": 40,
+      "posts": 867,
+      "comments": 200,
+      "communities": 8,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 4,
+      "users_active_half_year": 7
+    },
+    {
+      "domain": "realbitcoin.cash",
+      "users": 70,
+      "posts": 765,
+      "comments": 1167,
+      "communities": 14,
+      "users_active_day": 3,
+      "users_active_week": 3,
+      "users_active_month": 4,
+      "users_active_half_year": 13
+    },
+    {
+      "domain": "lemmy.browntown.dev",
+      "users": 3,
+      "posts": 1,
+      "comments": 53,
+      "communities": 0,
       "users_active_day": 1,
       "users_active_week": 3,
       "users_active_month": 3,
-      "users_active_half_year": 4
+      "users_active_half_year": 3
     },
     {
       "domain": "feddit.bg",
@@ -1133,15 +1100,26 @@
       "users_active_half_year": 5
     },
     {
-      "domain": "discorsi.apsmiranda.it",
-      "users": 13,
-      "posts": 15,
-      "comments": 14,
-      "communities": 4,
-      "users_active_day": 0,
-      "users_active_week": 3,
+      "domain": "rollenspiel.forum",
+      "users": 49,
+      "posts": 142,
+      "comments": 671,
+      "communities": 16,
+      "users_active_day": 1,
+      "users_active_week": 2,
       "users_active_month": 3,
-      "users_active_half_year": 3
+      "users_active_half_year": 4
+    },
+    {
+      "domain": "fanaticus.social",
+      "users": 323,
+      "posts": 9984,
+      "comments": 25872,
+      "communities": 229,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 3,
+      "users_active_half_year": 8
     },
     {
       "domain": "fedit.pl",
@@ -1155,54 +1133,10 @@
       "users_active_half_year": 6
     },
     {
-      "domain": "rollenspiel.forum",
-      "users": 49,
-      "posts": 142,
-      "comments": 671,
-      "communities": 16,
-      "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 3,
-      "users_active_half_year": 4
-    },
-    {
       "domain": "leaf.dance",
       "users": 4,
       "posts": 5,
       "comments": 52,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 3,
-      "users_active_month": 3,
-      "users_active_half_year": 3
-    },
-    {
-      "domain": "lemmy.neondystopia.world",
-      "users": 4,
-      "posts": 3,
-      "comments": 9,
-      "communities": 6,
-      "users_active_day": 1,
-      "users_active_week": 3,
-      "users_active_month": 3,
-      "users_active_half_year": 3
-    },
-    {
-      "domain": "fanaticus.social",
-      "users": 323,
-      "posts": 9984,
-      "comments": 25872,
-      "communities": 229,
-      "users_active_day": 0,
-      "users_active_week": 2,
-      "users_active_month": 3,
-      "users_active_half_year": 8
-    },
-    {
-      "domain": "lemmy.browntown.dev",
-      "users": 3,
-      "posts": 1,
-      "comments": 53,
       "communities": 0,
       "users_active_day": 1,
       "users_active_week": 3,
@@ -1221,6 +1155,160 @@
       "users_active_half_year": 3
     },
     {
+      "domain": "poptalk.scrubbles.tech",
+      "users": 44,
+      "posts": 727,
+      "comments": 9470,
+      "communities": 7,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 3,
+      "users_active_half_year": 4
+    },
+    {
+      "domain": "discorsi.apsmiranda.it",
+      "users": 13,
+      "posts": 15,
+      "comments": 14,
+      "communities": 4,
+      "users_active_day": 0,
+      "users_active_week": 3,
+      "users_active_month": 3,
+      "users_active_half_year": 3
+    },
+    {
+      "domain": "lemmy.neondystopia.world",
+      "users": 4,
+      "posts": 3,
+      "comments": 9,
+      "communities": 6,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 3,
+      "users_active_half_year": 3
+    },
+    {
+      "domain": "philosophy.cafe",
+      "users": 56,
+      "posts": 21,
+      "comments": 75,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 3,
+      "users_active_half_year": 9
+    },
+    {
+      "domain": "lemmy.billiam.net",
+      "users": 7,
+      "posts": 10,
+      "comments": 783,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 3,
+      "users_active_month": 3,
+      "users_active_half_year": 4
+    },
+    {
+      "domain": "no.lastname.nz",
+      "users": 68,
+      "posts": 898,
+      "comments": 1412,
+      "communities": 9,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 6
+    },
+    {
+      "domain": "lemmy.az.social",
+      "users": 17,
+      "posts": 137,
+      "comments": 155,
+      "communities": 16,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 3
+    },
+    {
+      "domain": "lu.skbo.net",
+      "users": 1,
+      "posts": 82,
+      "comments": 228,
+      "communities": 1,
+      "users_active_day": 2,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "social.jears.at",
+      "users": 2,
+      "posts": 2,
+      "comments": 36,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "upvote.au",
+      "users": 1,
+      "posts": 11,
+      "comments": 4342,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "orcas.enjoying.yachts",
+      "users": 9,
+      "posts": 30,
+      "comments": 1811,
+      "communities": 3,
+      "users_active_day": 2,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 3
+    },
+    {
+      "domain": "fstab.sh",
+      "users": 8,
+      "posts": 32,
+      "comments": 274,
+      "communities": 5,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 3
+    },
+    {
+      "domain": "lemmy.net.au",
+      "users": 43,
+      "posts": 37,
+      "comments": 2979,
+      "communities": 11,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 4
+    },
+    {
+      "domain": "kutsuya.dev",
+      "users": 7,
+      "posts": 3,
+      "comments": 540,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
       "domain": "lemmy.umucat.day",
       "users": 4,
       "posts": 10,
@@ -1232,6 +1320,28 @@
       "users_active_half_year": 3
     },
     {
+      "domain": "welppp.com",
+      "users": 127,
+      "posts": 234,
+      "comments": 92,
+      "communities": 26,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 16
+    },
+    {
+      "domain": "supernova.place",
+      "users": 3,
+      "posts": 0,
+      "comments": 14,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
       "domain": "lemmy.brief.guru",
       "users": 6,
       "posts": 0,
@@ -1239,6 +1349,39 @@
       "communities": 1,
       "users_active_day": 1,
       "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.dougiepeart.co.uk",
+      "users": 2,
+      "posts": 1,
+      "comments": 1,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.makearmy.io",
+      "users": 6,
+      "posts": 22,
+      "comments": 116,
+      "communities": 5,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "dubvee.org",
+      "users": 45,
+      "posts": 2496,
+      "comments": 9536,
+      "communities": 16,
+      "users_active_day": 1,
+      "users_active_week": 2,
       "users_active_month": 2,
       "users_active_half_year": 2
     },
@@ -1254,224 +1397,15 @@
       "users_active_half_year": 9
     },
     {
-      "domain": "philosophy.cafe",
-      "users": 56,
-      "posts": 21,
-      "comments": 75,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 9
-    },
-    {
-      "domain": "social.jears.at",
-      "users": 2,
-      "posts": 2,
-      "comments": 36,
-      "communities": 1,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "no.lastname.nz",
-      "users": 68,
-      "posts": 898,
-      "comments": 1412,
-      "communities": 9,
-      "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 6
-    },
-    {
-      "domain": "altmedia.house",
-      "users": 32,
-      "posts": 2972,
-      "comments": 470,
-      "communities": 1,
-      "users_active_day": 2,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "corndog.social",
-      "users": 3,
-      "posts": 4,
-      "comments": 1363,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.permisuan.com",
-      "users": 4,
-      "posts": 1,
-      "comments": 6,
-      "communities": 2,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.asc6.org",
-      "users": 5,
-      "posts": 0,
-      "comments": 20,
-      "communities": 0,
-      "users_active_day": 2,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.net.au",
-      "users": 43,
-      "posts": 37,
-      "comments": 2979,
-      "communities": 11,
-      "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 4
-    },
-    {
-      "domain": "lemmy.staphup.nl",
-      "users": 6,
-      "posts": 72885,
-      "comments": 666,
-      "communities": 19,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "maga.place",
-      "users": 33,
-      "posts": 384,
-      "comments": 219,
-      "communities": 15,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 2,
-      "users_active_half_year": 11
-    },
-    {
-      "domain": "linkage.ds8.zone",
-      "users": 9,
-      "posts": 59,
-      "comments": 461,
-      "communities": 5,
-      "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lu.skbo.net",
-      "users": 1,
-      "posts": 82,
-      "comments": 228,
-      "communities": 1,
-      "users_active_day": 2,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "upvote.au",
-      "users": 1,
-      "posts": 11,
-      "comments": 4341,
-      "communities": 1,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "x69.org",
-      "users": 382,
-      "posts": 18,
-      "comments": 18,
+      "domain": "lemmy.kya.moe",
+      "users": 308,
+      "posts": 595,
+      "comments": 4005,
       "communities": 3,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 7
-    },
-    {
-      "domain": "nodesphere.site",
-      "users": 3,
-      "posts": 129830,
-      "comments": 0,
-      "communities": 10,
-      "users_active_day": 1,
+      "users_active_day": 2,
       "users_active_week": 2,
       "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.nocturnal.garden",
-      "users": 3,
-      "posts": 75,
-      "comments": 662,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "supernova.place",
-      "users": 3,
-      "posts": 0,
-      "comments": 14,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "welppp.com",
-      "users": 127,
-      "posts": 234,
-      "comments": 92,
-      "communities": 26,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 17
-    },
-    {
-      "domain": "lemmy.beru.co",
-      "users": 7,
-      "posts": 27,
-      "comments": 823,
-      "communities": 1,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.makearmy.io",
-      "users": 6,
-      "posts": 22,
-      "comments": 116,
-      "communities": 5,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 2
+      "users_active_half_year": 8
     },
     {
       "domain": "badatbeing.social",
@@ -1496,28 +1430,6 @@
       "users_active_half_year": 5
     },
     {
-      "domain": "lemmy.kya.moe",
-      "users": 308,
-      "posts": 595,
-      "comments": 4005,
-      "communities": 3,
-      "users_active_day": 2,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 8
-    },
-    {
-      "domain": "dubvee.org",
-      "users": 45,
-      "posts": 2496,
-      "comments": 9536,
-      "communities": 16,
-      "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
       "domain": "lemmy.wtmo.cloud",
       "users": 2,
       "posts": 4,
@@ -1529,37 +1441,103 @@
       "users_active_half_year": 2
     },
     {
-      "domain": "kutsuya.dev",
+      "domain": "lemmy.beru.co",
       "users": 7,
-      "posts": 3,
-      "comments": 540,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "hackerz.world",
-      "users": 5,
-      "posts": 3,
-      "comments": 3,
+      "posts": 27,
+      "comments": 823,
       "communities": 1,
-      "users_active_day": 0,
+      "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 2,
       "users_active_half_year": 2
     },
     {
-      "domain": "orcas.enjoying.yachts",
+      "domain": "nodesphere.site",
+      "users": 3,
+      "posts": 129897,
+      "comments": 0,
+      "communities": 10,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "linkage.ds8.zone",
       "users": 9,
-      "posts": 30,
-      "comments": 1811,
-      "communities": 3,
+      "posts": 59,
+      "comments": 461,
+      "communities": 5,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "altmedia.house",
+      "users": 32,
+      "posts": 2973,
+      "comments": 471,
+      "communities": 1,
       "users_active_day": 2,
       "users_active_week": 2,
       "users_active_month": 2,
-      "users_active_half_year": 3
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.nocturnal.garden",
+      "users": 3,
+      "posts": 75,
+      "comments": 662,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "corndog.social",
+      "users": 3,
+      "posts": 4,
+      "comments": 1363,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "maga.place",
+      "users": 33,
+      "posts": 384,
+      "comments": 219,
+      "communities": 15,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 2,
+      "users_active_half_year": 11
+    },
+    {
+      "domain": "bfed.uk",
+      "users": 3,
+      "posts": 1,
+      "comments": 0,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.inbutts.lol",
+      "users": 12,
+      "posts": 13136,
+      "comments": 1097,
+      "communities": 4,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 2,
+      "users_active_half_year": 2
     },
     {
       "domain": "lemmy.funami.tech",
@@ -1568,27 +1546,16 @@
       "comments": 878,
       "communities": 22,
       "users_active_day": 0,
-      "users_active_week": 1,
+      "users_active_week": 0,
       "users_active_month": 2,
       "users_active_half_year": 11
     },
     {
-      "domain": "adultswim.fan",
-      "users": 44,
-      "posts": 1409,
-      "comments": 2441,
-      "communities": 26,
-      "users_active_day": 1,
-      "users_active_week": 2,
-      "users_active_month": 2,
-      "users_active_half_year": 9
-    },
-    {
-      "domain": "lemmy.inbutts.lol",
-      "users": 12,
-      "posts": 13129,
-      "comments": 1097,
-      "communities": 4,
+      "domain": "lemmy.permisuan.com",
+      "users": 4,
+      "posts": 1,
+      "comments": 6,
+      "communities": 2,
       "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 2,
@@ -1606,21 +1573,43 @@
       "users_active_half_year": 2
     },
     {
-      "domain": "bfed.uk",
-      "users": 3,
-      "posts": 1,
-      "comments": 0,
-      "communities": 1,
-      "users_active_day": 1,
-      "users_active_week": 0,
+      "domain": "lemmy.staphup.nl",
+      "users": 6,
+      "posts": 72897,
+      "comments": 666,
+      "communities": 19,
+      "users_active_day": 0,
+      "users_active_week": 2,
       "users_active_month": 2,
       "users_active_half_year": 2
     },
     {
-      "domain": "lemmy.dougiepeart.co.uk",
-      "users": 2,
-      "posts": 1,
-      "comments": 1,
+      "domain": "adultswim.fan",
+      "users": 44,
+      "posts": 1409,
+      "comments": 2444,
+      "communities": 26,
+      "users_active_day": 1,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 9
+    },
+    {
+      "domain": "lemmy.asc6.org",
+      "users": 5,
+      "posts": 0,
+      "comments": 20,
+      "communities": 0,
+      "users_active_day": 2,
+      "users_active_week": 2,
+      "users_active_month": 2,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "hackerz.world",
+      "users": 5,
+      "posts": 3,
+      "comments": 3,
       "communities": 1,
       "users_active_day": 0,
       "users_active_week": 0,
@@ -1628,56 +1617,67 @@
       "users_active_half_year": 2
     },
     {
-      "domain": "fstab.sh",
-      "users": 8,
-      "posts": 32,
-      "comments": 274,
-      "communities": 5,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 3
-    },
-    {
-      "domain": "lemmynal.space",
-      "users": 4,
-      "posts": 2,
-      "comments": 5,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 2,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.az.social",
-      "users": 17,
-      "posts": 137,
-      "comments": 155,
-      "communities": 16,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 3
-    },
-    {
-      "domain": "l.hostux.net",
-      "users": 9,
-      "posts": 60,
-      "comments": 15,
-      "communities": 1,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 2,
-      "users_active_half_year": 4
-    },
-    {
-      "domain": "lemmy.sador.me",
+      "domain": "lemmy.obscuro.be",
       "users": 2,
       "posts": 0,
-      "comments": 0,
+      "comments": 1,
       "communities": 0,
       "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "sub.community",
+      "users": 6,
+      "posts": 13,
+      "comments": 200,
+      "communities": 4,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 3
+    },
+    {
+      "domain": "lemmy.pierre-couy.fr",
+      "users": 2,
+      "posts": 44,
+      "comments": 234,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.mbl.social",
+      "users": 3,
+      "posts": 1,
+      "comments": 7,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.mrm.one",
+      "users": 4,
+      "posts": 0,
+      "comments": 12,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.tgxn.net",
+      "users": 1,
+      "posts": 4,
+      "comments": 387,
+      "communities": 2,
+      "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -1705,11 +1705,11 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "swg-empire.de",
-      "users": 0,
-      "posts": 474,
-      "comments": 9341,
-      "communities": 3,
+      "domain": "tkohhh.social",
+      "users": 3,
+      "posts": 77,
+      "comments": 383,
+      "communities": 2,
       "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
@@ -1727,35 +1727,13 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "tkohhh.social",
-      "users": 3,
-      "posts": 77,
-      "comments": 383,
-      "communities": 2,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.bestiver.se",
       "users": 25,
-      "posts": 53566,
+      "posts": 53580,
       "comments": 94,
       "communities": 2,
       "users_active_day": 0,
       "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.pierre-couy.fr",
-      "users": 2,
-      "posts": 44,
-      "comments": 234,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -1769,6 +1747,17 @@
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 3
+    },
+    {
+      "domain": "lemmy.curiana.net",
+      "users": 0,
+      "posts": 23,
+      "comments": 2257,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.mrpostman.ch",
@@ -1804,6 +1793,17 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "altgag.net",
+      "users": 13,
+      "posts": 25,
+      "comments": 17,
+      "communities": 4,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 3
+    },
+    {
       "domain": "0xdd.org.ru",
       "users": 4,
       "posts": 271,
@@ -1815,23 +1815,23 @@
       "users_active_half_year": 2
     },
     {
-      "domain": "lemmy.mrm.one",
-      "users": 4,
-      "posts": 0,
-      "comments": 12,
+      "domain": "l.twipped.social",
+      "users": 0,
+      "posts": 1,
+      "comments": 66,
       "communities": 0,
       "users_active_day": 0,
-      "users_active_week": 0,
+      "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.curiana.net",
+      "domain": "lemmy.glue.io",
       "users": 0,
-      "posts": 23,
-      "comments": 2256,
-      "communities": 1,
-      "users_active_day": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -1848,21 +1848,10 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "l.twipped.social",
-      "users": 0,
-      "posts": 1,
-      "comments": 66,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.fraxoweb.com",
       "users": 1,
       "posts": 0,
-      "comments": 3,
+      "comments": 5,
       "communities": 0,
       "users_active_day": 1,
       "users_active_week": 1,
@@ -1892,39 +1881,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.unboiled.info",
-      "users": 1,
-      "posts": 1,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "sub.community",
-      "users": 6,
-      "posts": 13,
-      "comments": 200,
-      "communities": 4,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 3
-    },
-    {
-      "domain": "lemmy.ananace.dev",
-      "users": 1,
-      "posts": 61,
-      "comments": 282,
-      "communities": 2,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.8th.world",
       "users": 4,
       "posts": 19,
@@ -1936,12 +1892,12 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.glue.io",
-      "users": 0,
-      "posts": 0,
-      "comments": 0,
+      "domain": "lemmy.unboiled.info",
+      "users": 1,
+      "posts": 6,
+      "comments": 560,
       "communities": 0,
-      "users_active_day": 0,
+      "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -1958,12 +1914,78 @@
       "users_active_half_year": 2
     },
     {
+      "domain": "lemmy.ananace.dev",
+      "users": 1,
+      "posts": 61,
+      "comments": 282,
+      "communities": 2,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.keniir.wtf",
+      "users": 2,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "swg-empire.de",
+      "users": 0,
+      "posts": 474,
+      "comments": 9341,
+      "communities": 3,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.muffalings.com",
+      "users": 10,
+      "posts": 2892,
+      "comments": 1798,
+      "communities": 4,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 5
+    },
+    {
       "domain": "riskeratspizza.com",
       "users": 1,
       "posts": 0,
       "comments": 43,
       "communities": 0,
       "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "spgrn.com",
+      "users": 7,
+      "posts": 0,
+      "comments": 874,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.emphisia.nl",
+      "users": 1,
+      "posts": 0,
+      "comments": 2,
+      "communities": 0,
+      "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -1991,109 +2013,10 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.pos005.com",
-      "users": 2,
-      "posts": 0,
-      "comments": 3,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "wired.bluemarch.art",
-      "users": 1,
-      "posts": 8,
-      "comments": 15,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.multivers.cc",
       "users": 3,
       "posts": 1,
       "comments": 1,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "altgag.net",
-      "users": 13,
-      "posts": 25,
-      "comments": 17,
-      "communities": 4,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 3
-    },
-    {
-      "domain": "vger.social",
-      "users": 22,
-      "posts": 171,
-      "comments": 903,
-      "communities": 3,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 3
-    },
-    {
-      "domain": "lemmy.muffalings.com",
-      "users": 10,
-      "posts": 2892,
-      "comments": 1798,
-      "communities": 4,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 5
-    },
-    {
-      "domain": "spgrn.com",
-      "users": 7,
-      "posts": 0,
-      "comments": 874,
-      "communities": 1,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.cronyakatsuki.xyz",
-      "users": 4,
-      "posts": 21,
-      "comments": 497,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.jhjacobs.nl",
-      "users": 2,
-      "posts": 0,
-      "comments": 163,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.emphisia.nl",
-      "users": 1,
-      "posts": 0,
-      "comments": 2,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 1,
@@ -2112,13 +2035,24 @@
       "users_active_half_year": 3
     },
     {
-      "domain": "lemmy.sal.web.tr",
+      "domain": "lemmit.nyc.what.if.ua",
       "users": 1,
       "posts": 0,
       "comments": 0,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.jhjacobs.nl",
+      "users": 2,
+      "posts": 0,
+      "comments": 163,
       "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -2134,11 +2068,44 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.darvit.nl",
-      "users": 2,
-      "posts": 1,
-      "comments": 166,
+      "domain": "lemmy.mariusdavid.fr",
+      "users": 0,
+      "posts": 3,
+      "comments": 42,
       "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "vger.social",
+      "users": 22,
+      "posts": 171,
+      "comments": 903,
+      "communities": 3,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 3
+    },
+    {
+      "domain": "lemmy.dudeami.win",
+      "users": 0,
+      "posts": 0,
+      "comments": 84,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.cronyakatsuki.xyz",
+      "users": 4,
+      "posts": 21,
+      "comments": 497,
+      "communities": 1,
       "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
@@ -2156,44 +2123,33 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "go.ontomy.tv",
+      "users": 2,
+      "posts": 0,
+      "comments": 0,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
       "domain": "tucson.social",
       "users": 116,
-      "posts": 4414,
+      "posts": 4415,
       "comments": 497,
       "communities": 17,
-      "users_active_day": 1,
+      "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 5
     },
     {
-      "domain": "social.nerdhouse.io",
-      "users": 2,
-      "posts": 0,
-      "comments": 11,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "go.ontomy.tv",
-      "users": 2,
+      "domain": "lemmy.sal.web.tr",
+      "users": 1,
       "posts": 0,
       "comments": 0,
       "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "links.rocks",
-      "users": 6,
-      "posts": 37,
-      "comments": 123,
-      "communities": 1,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 1,
@@ -2211,10 +2167,10 @@
       "users_active_half_year": 2
     },
     {
-      "domain": "lemmy.dudeami.win",
-      "users": 0,
-      "posts": 0,
-      "comments": 84,
+      "domain": "lemmy.darvit.nl",
+      "users": 2,
+      "posts": 1,
+      "comments": 166,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 1,
@@ -2233,15 +2189,26 @@
       "users_active_half_year": 2
     },
     {
-      "domain": "news.abolish.capital",
-      "users": 5,
-      "posts": 21472,
-      "comments": 182,
-      "communities": 8,
-      "users_active_day": 1,
+      "domain": "lemmy.moocloud.party",
+      "users": 1,
+      "posts": 0,
+      "comments": 4,
+      "communities": 0,
+      "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
-      "users_active_half_year": 3
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "social.nerdhouse.io",
+      "users": 2,
+      "posts": 0,
+      "comments": 11,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.14042003.xyz",
@@ -2251,6 +2218,39 @@
       "communities": 0,
       "users_active_day": 1,
       "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.circenn.win",
+      "users": 6,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lsmu.schmurian.xyz",
+      "users": 1,
+      "posts": 0,
+      "comments": 3,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "links.rocks",
+      "users": 6,
+      "posts": 37,
+      "comments": 123,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -2266,26 +2266,26 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.croc.pw",
-      "users": 0,
-      "posts": 1,
-      "comments": 43,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lsmu.schmurian.xyz",
-      "users": 1,
-      "posts": 0,
-      "comments": 3,
-      "communities": 0,
-      "users_active_day": 0,
+      "domain": "lem.ugh.im",
+      "users": 9,
+      "posts": 26,
+      "comments": 6,
+      "communities": 2,
+      "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
-      "users_active_half_year": 1
+      "users_active_half_year": 6
+    },
+    {
+      "domain": "news.abolish.capital",
+      "users": 5,
+      "posts": 21522,
+      "comments": 182,
+      "communities": 8,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 3
     },
     {
       "domain": "lemmyland.com",
@@ -2315,52 +2315,8 @@
       "posts": 0,
       "comments": 5,
       "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.circenn.win",
-      "users": 6,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.mariusdavid.fr",
-      "users": 0,
-      "posts": 3,
-      "comments": 42,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.catgirl.biz",
-      "users": 3,
-      "posts": 30127,
-      "comments": 19,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "slevin.horse",
-      "users": 2,
-      "posts": 0,
-      "comments": 1,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -2369,28 +2325,6 @@
       "users": 3,
       "posts": 4,
       "comments": 70,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "gonzo.markets",
-      "users": 2,
-      "posts": 13,
-      "comments": 46,
-      "communities": 4,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.moocloud.party",
-      "users": 1,
-      "posts": 0,
-      "comments": 4,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 1,
@@ -2409,15 +2343,48 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.cultimean.group",
-      "users": 6,
-      "posts": 0,
-      "comments": 1,
+      "domain": "lemmy.catgirl.biz",
+      "users": 3,
+      "posts": 30127,
+      "comments": 19,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.tomkoreny.com",
+      "users": 2,
+      "posts": 0,
+      "comments": 3,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "kyu.de",
+      "users": 4,
+      "posts": 27,
+      "comments": 1089,
+      "communities": 5,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.fan",
+      "users": 8,
+      "posts": 116,
+      "comments": 79,
+      "communities": 11,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
     },
     {
       "domain": "bitmonit.com",
@@ -2431,11 +2398,44 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "kyu.de",
-      "users": 4,
-      "posts": 27,
-      "comments": 1089,
-      "communities": 5,
+      "domain": "gonzo.markets",
+      "users": 2,
+      "posts": 13,
+      "comments": 46,
+      "communities": 4,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.klein.ruhr",
+      "users": 1,
+      "posts": 0,
+      "comments": 10,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.teuto.icu",
+      "users": 1,
+      "posts": 0,
+      "comments": 137,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.cultimean.group",
+      "users": 6,
+      "posts": 0,
+      "comments": 1,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
@@ -2464,34 +2464,12 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.tomkoreny.com",
-      "users": 2,
-      "posts": 0,
-      "comments": 3,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.fan",
-      "users": 8,
-      "posts": 116,
-      "comments": 79,
-      "communities": 11,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "l.tta.wtf",
+      "domain": "lemmy.grey.fail",
       "users": 3,
-      "posts": 12,
-      "comments": 24,
+      "posts": 1,
+      "comments": 41,
       "communities": 1,
-      "users_active_day": 0,
+      "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -2508,94 +2486,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.grey.fail",
-      "users": 3,
-      "posts": 1,
-      "comments": 41,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lem.ugh.im",
-      "users": 9,
-      "posts": 26,
-      "comments": 6,
-      "communities": 2,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 6
-    },
-    {
-      "domain": "lemmy.rochegmr.com",
-      "users": 1,
-      "posts": 2,
-      "comments": 21,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.lidstah.info",
-      "users": 1,
-      "posts": 17,
-      "comments": 5,
-      "communities": 9,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "rentadrunk.org",
-      "users": 0,
-      "posts": 3,
-      "comments": 370,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.teuto.icu",
-      "users": 1,
-      "posts": 0,
-      "comments": 137,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.lukeog.com",
-      "users": 15,
-      "posts": 1,
-      "comments": 60,
-      "communities": 2,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.helvetet.eu",
-      "users": 5,
-      "posts": 241,
-      "comments": 18,
-      "communities": 28,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.jacaranda.club",
       "users": 7,
       "posts": 19,
@@ -2605,28 +2495,6 @@
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.mbl.social",
-      "users": 3,
-      "posts": 1,
-      "comments": 7,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.klein.ruhr",
-      "users": 1,
-      "posts": 0,
-      "comments": 10,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 2
     },
     {
       "domain": "lemmy.tespia.org",
@@ -2651,6 +2519,94 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "lemmy.asudox.dev",
+      "users": 1,
+      "posts": 55,
+      "comments": 1271,
+      "communities": 3,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.rochegmr.com",
+      "users": 1,
+      "posts": 2,
+      "comments": 21,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "rentadrunk.org",
+      "users": 0,
+      "posts": 3,
+      "comments": 370,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.lidstah.info",
+      "users": 1,
+      "posts": 17,
+      "comments": 5,
+      "communities": 9,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.k2pk.com",
+      "users": 8,
+      "posts": 7,
+      "comments": 1,
+      "communities": 10,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.lukeog.com",
+      "users": 15,
+      "posts": 1,
+      "comments": 60,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.helvetet.eu",
+      "users": 5,
+      "posts": 241,
+      "comments": 18,
+      "communities": 28,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.sador.me",
+      "users": 2,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
       "domain": "lemmy.beagle.quest",
       "users": 3,
       "posts": 1612,
@@ -2658,83 +2614,6 @@
       "communities": 2,
       "users_active_day": 0,
       "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.monster",
-      "users": 3,
-      "posts": 86,
-      "comments": 54,
-      "communities": 1,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "kitty.ly",
-      "users": 6,
-      "posts": 17,
-      "comments": 23,
-      "communities": 7,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "thinktank.brainstormes.org",
-      "users": 4,
-      "posts": 9,
-      "comments": 0,
-      "communities": 3,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "esc.ozar.dev",
-      "users": 2,
-      "posts": 1,
-      "comments": 0,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "l.mathers.fr",
-      "users": 8,
-      "posts": 2,
-      "comments": 1,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.manganiello.tech",
-      "users": 0,
-      "posts": 0,
-      "comments": 8,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.100010101.xyz",
-      "users": 1,
-      "posts": 1,
-      "comments": 25,
-      "communities": 1,
-      "users_active_day": 1,
-      "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -2761,6 +2640,116 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "lemmy.monster",
+      "users": 3,
+      "posts": 86,
+      "comments": 54,
+      "communities": 1,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "kitty.ly",
+      "users": 6,
+      "posts": 17,
+      "comments": 23,
+      "communities": 7,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.100010101.xyz",
+      "users": 1,
+      "posts": 1,
+      "comments": 25,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "thinktank.brainstormes.org",
+      "users": 4,
+      "posts": 9,
+      "comments": 0,
+      "communities": 3,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "l.mathers.fr",
+      "users": 8,
+      "posts": 2,
+      "comments": 1,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "esc.ozar.dev",
+      "users": 2,
+      "posts": 1,
+      "comments": 0,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.manganiello.tech",
+      "users": 0,
+      "posts": 0,
+      "comments": 8,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "fjdk.uk",
+      "users": 0,
+      "posts": 1,
+      "comments": 8,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "campfyre.nickwebster.dev",
+      "users": 17,
+      "posts": 52,
+      "comments": 287,
+      "communities": 6,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "hackertalks.com",
+      "users": 5,
+      "posts": 1086,
+      "comments": 13894,
+      "communities": 6,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
       "domain": "lemmy.nekusoul.de",
       "users": 0,
       "posts": 3,
@@ -2770,6 +2759,17 @@
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmyis.fun",
+      "users": 16,
+      "posts": 15,
+      "comments": 600,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 2
     },
     {
       "domain": "lemmy.razbot.xyz",
@@ -2783,26 +2783,15 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.k2pk.com",
-      "users": 8,
-      "posts": 7,
-      "comments": 1,
-      "communities": 10,
+      "domain": "lemmy.lupiverse.com",
+      "users": 2,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "hackertalks.com",
-      "users": 5,
-      "posts": 1086,
-      "comments": 13891,
-      "communities": 6,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 2
+      "users_active_half_year": 1
     },
     {
       "domain": "news.idlestate.org",
@@ -2827,26 +2816,15 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.lupiverse.com",
-      "users": 2,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
+      "domain": "lemmybefree.net",
+      "users": 42,
+      "posts": 58,
+      "comments": 1529,
+      "communities": 8,
       "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmyis.fun",
-      "users": 16,
-      "posts": 15,
-      "comments": 600,
-      "communities": 2,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 2
+      "users_active_half_year": 11
     },
     {
       "domain": "l.mchome.net",
@@ -2860,15 +2838,26 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmybefree.net",
-      "users": 42,
-      "posts": 58,
-      "comments": 1529,
-      "communities": 8,
+      "domain": "x69.org",
+      "users": 382,
+      "posts": 18,
+      "comments": 18,
+      "communities": 3,
       "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
-      "users_active_half_year": 11
+      "users_active_half_year": 7
+    },
+    {
+      "domain": "social.ggbox.fr",
+      "users": 9,
+      "posts": 43,
+      "comments": 166,
+      "communities": 2,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.kfed.org",
@@ -2882,12 +2871,12 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.asudox.dev",
-      "users": 1,
-      "posts": 55,
-      "comments": 1271,
-      "communities": 3,
-      "users_active_day": 1,
+      "domain": "lemmy.fromshado.ws",
+      "users": 2,
+      "posts": 94,
+      "comments": 262,
+      "communities": 2,
+      "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -2915,12 +2904,23 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.fromshado.ws",
-      "users": 2,
-      "posts": 94,
-      "comments": 262,
-      "communities": 2,
+      "domain": "civilloquy.com",
+      "users": 169,
+      "posts": 482,
+      "comments": 319,
+      "communities": 24,
       "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.secnd.me",
+      "users": 1,
+      "posts": 6,
+      "comments": 1336,
+      "communities": 0,
+      "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -2948,17 +2948,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.secnd.me",
-      "users": 1,
-      "posts": 6,
-      "comments": 1336,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.deadca.de",
       "users": 0,
       "posts": -4,
@@ -2970,26 +2959,26 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lem.free.as",
-      "users": 4,
-      "posts": 8,
-      "comments": 439,
-      "communities": 1,
+      "domain": "lemmy.balamb.fr",
+      "users": 1,
+      "posts": 9,
+      "comments": 212,
+      "communities": 3,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.xoynq.com",
+      "users": 3,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
       "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
-    },
-    {
-      "domain": "civilloquy.com",
-      "users": 169,
-      "posts": 482,
-      "comments": 319,
-      "communities": 24,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 2
     },
     {
       "domain": "sha1.nl",
@@ -3025,22 +3014,22 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.xoynq.com",
-      "users": 3,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.michaelsasser.org",
       "users": 1,
       "posts": 0,
       "comments": 1,
       "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lem.free.as",
+      "users": 4,
+      "posts": 8,
+      "comments": 439,
+      "communities": 1,
       "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
@@ -3058,39 +3047,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "odin.lanofthedead.xyz",
-      "users": 4,
-      "posts": 40,
-      "comments": 102,
-      "communities": 2,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "social.ggbox.fr",
-      "users": 9,
-      "posts": 43,
-      "comments": 166,
-      "communities": 2,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.balamb.fr",
-      "users": 1,
-      "posts": 9,
-      "comments": 212,
-      "communities": 3,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
       "domain": "lemmy.trippy.pizza",
       "users": 2,
       "posts": 6,
@@ -3102,10 +3058,142 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "odin.lanofthedead.xyz",
+      "users": 4,
+      "posts": 40,
+      "comments": 102,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.30p87.de",
+      "users": 3,
+      "posts": 5,
+      "comments": 22,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "notdigg.com",
+      "users": 7,
+      "posts": 66,
+      "comments": 118,
+      "communities": 44,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lef.li",
+      "users": 1,
+      "posts": 31,
+      "comments": 38,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
       "domain": "lemmy.deedium.nl",
       "users": 2,
       "posts": 26,
       "comments": 138,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "social.jrruethe.info",
+      "users": 2,
+      "posts": 4,
+      "comments": 5,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.kokomo.cloud",
+      "users": 0,
+      "posts": 0,
+      "comments": 33,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "linz.city",
+      "users": 50,
+      "posts": 20570,
+      "comments": 18,
+      "communities": 5,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.rmict.nl",
+      "users": 1,
+      "posts": 2,
+      "comments": 1,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.digitalcharon.in",
+      "users": 0,
+      "posts": 0,
+      "comments": 1,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "champserver.net",
+      "users": 6,
+      "posts": 0,
+      "comments": 769,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.snowgoons.ro",
+      "users": 2,
+      "posts": 0,
+      "comments": 6,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.shiny-task.com",
+      "users": 3,
+      "posts": 1,
+      "comments": 4,
       "communities": 1,
       "users_active_day": 0,
       "users_active_week": 1,
@@ -3124,89 +3212,12 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "notdigg.com",
-      "users": 7,
-      "posts": 66,
-      "comments": 118,
-      "communities": 44,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "social.jrruethe.info",
-      "users": 2,
-      "posts": 4,
-      "comments": 5,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "linz.city",
-      "users": 50,
-      "posts": 20570,
-      "comments": 18,
-      "communities": 5,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.30p87.de",
-      "users": 3,
-      "posts": 5,
-      "comments": 22,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lef.li",
+      "domain": "lymme.dynv6.net",
       "users": 1,
-      "posts": 31,
-      "comments": 38,
-      "communities": 2,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.snowgoons.ro",
-      "users": 2,
-      "posts": 0,
-      "comments": 6,
-      "communities": 0,
+      "posts": 9,
+      "comments": 28,
+      "communities": 4,
       "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.kokomo.cloud",
-      "users": 0,
-      "posts": 0,
-      "comments": 33,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.digitalcharon.in",
-      "users": 0,
-      "posts": 0,
-      "comments": 1,
-      "communities": 0,
-      "users_active_day": 0,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -3218,28 +3229,6 @@
       "comments": 2,
       "communities": 0,
       "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "krabb.org",
-      "users": 4,
-      "posts": 19,
-      "comments": 72,
-      "communities": 22,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "campfyre.nickwebster.dev",
-      "users": 17,
-      "posts": 52,
-      "comments": 287,
-      "communities": 6,
-      "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
@@ -3267,48 +3256,26 @@
       "users_active_half_year": 2
     },
     {
-      "domain": "lemmy.rmict.nl",
-      "users": 1,
-      "posts": 2,
-      "comments": 1,
-      "communities": 1,
+      "domain": "lmm.azrak.io",
+      "users": 3,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
     {
-      "domain": "champserver.net",
-      "users": 6,
-      "posts": 0,
-      "comments": 769,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.shiny-task.com",
-      "users": 3,
-      "posts": 1,
-      "comments": 4,
+      "domain": "l.hostux.net",
+      "users": 9,
+      "posts": 60,
+      "comments": 15,
       "communities": 1,
       "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lymme.dynv6.net",
-      "users": 1,
-      "posts": 9,
-      "comments": 28,
-      "communities": 4,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
+      "users_active_half_year": 4
     },
     {
       "domain": "lemmy.hangdaan.com",
@@ -3333,6 +3300,17 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "lemmy.johnnei.org",
+      "users": 3,
+      "posts": 141,
+      "comments": 25,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
       "domain": "lemmy.okr765.com",
       "users": 2,
       "posts": 1,
@@ -3344,24 +3322,13 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lmm.azrak.io",
-      "users": 3,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
+      "domain": "krabb.org",
+      "users": 4,
+      "posts": 19,
+      "comments": 72,
+      "communities": 22,
       "users_active_day": 0,
       "users_active_week": 0,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.johnnei.org",
-      "users": 3,
-      "posts": 141,
-      "comments": 25,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -3375,6 +3342,50 @@
       "users_active_week": 0,
       "users_active_month": 1,
       "users_active_half_year": 2
+    },
+    {
+      "domain": "mouse.chitanda.moe",
+      "users": 4,
+      "posts": 0,
+      "comments": 70,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.amxl.com",
+      "users": 1,
+      "posts": 22,
+      "comments": 292,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "morbier.foo",
+      "users": 4,
+      "posts": 2,
+      "comments": 36,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "herbicide.fallcounty.omg.lol",
+      "users": 1,
+      "posts": 6,
+      "comments": 337,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.self-hosted.site",
@@ -3399,48 +3410,15 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.amxl.com",
-      "users": 1,
-      "posts": 22,
-      "comments": 292,
+      "domain": "lemmynal.space",
+      "users": 4,
+      "posts": 2,
+      "comments": 5,
       "communities": 1,
       "users_active_day": 0,
-      "users_active_week": 1,
+      "users_active_week": 0,
       "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "herbicide.fallcounty.omg.lol",
-      "users": 1,
-      "posts": 6,
-      "comments": 337,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "l.roofo.cc",
-      "users": 2,
-      "posts": 19,
-      "comments": 474,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.bmck.au",
-      "users": 3,
-      "posts": 924,
-      "comments": 99,
-      "communities": 2,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
+      "users_active_half_year": 2
     },
     {
       "domain": "lebowski.social",
@@ -3454,6 +3432,17 @@
       "users_active_half_year": 2
     },
     {
+      "domain": "l.roofo.cc",
+      "users": 2,
+      "posts": 19,
+      "comments": 476,
+      "communities": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
       "domain": "l.posterdati.it",
       "users": 2,
       "posts": 32,
@@ -3461,6 +3450,17 @@
       "communities": 6,
       "users_active_day": 0,
       "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.horwood.cloud",
+      "users": 11,
+      "posts": 149,
+      "comments": 691,
+      "communities": 5,
+      "users_active_day": 1,
+      "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -3487,11 +3487,11 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.horwood.cloud",
-      "users": 11,
-      "posts": 149,
-      "comments": 691,
-      "communities": 5,
+      "domain": "lemmy.bmck.au",
+      "users": 3,
+      "posts": 924,
+      "comments": 99,
+      "communities": 2,
       "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
@@ -3520,17 +3520,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.mengsk.org",
-      "users": 2,
-      "posts": 6,
-      "comments": 77,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.civl.cc",
       "users": 1,
       "posts": 0,
@@ -3542,13 +3531,13 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.onlylans.io",
-      "users": 8,
-      "posts": 40,
-      "comments": 106,
-      "communities": 2,
+      "domain": "lemmy.mengsk.org",
+      "users": 2,
+      "posts": 6,
+      "comments": 77,
+      "communities": 1,
       "users_active_day": 0,
-      "users_active_week": 0,
+      "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -3575,24 +3564,24 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.gf4.pw",
-      "users": 2,
-      "posts": 1,
-      "comments": 85,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy-test-02.50d4.com",
       "users": 2,
       "posts": 12,
       "comments": 34,
       "communities": 1,
       "users_active_day": 0,
-      "users_active_week": 1,
+      "users_active_week": 0,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.onlylans.io",
+      "users": 8,
+      "posts": 40,
+      "comments": 106,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 0,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -3619,24 +3608,13 @@
       "users_active_half_year": 2
     },
     {
-      "domain": "lemmy.labfox.fr",
-      "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.obscuro.be",
+      "domain": "lemmy.gf4.pw",
       "users": 2,
-      "posts": 0,
-      "comments": 1,
+      "posts": 1,
+      "comments": 85,
       "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
+      "users_active_day": 1,
+      "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
@@ -3657,27 +3635,16 @@
       "posts": 16199,
       "comments": 15,
       "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 1,
-      "users_active_month": 1,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.tgxn.net",
-      "users": 1,
-      "posts": 4,
-      "comments": 387,
-      "communities": 2,
       "users_active_day": 1,
       "users_active_week": 1,
       "users_active_month": 1,
       "users_active_half_year": 1
     },
     {
-      "domain": "mouse.chitanda.moe",
-      "users": 4,
+      "domain": "lemmy.labfox.fr",
+      "users": 1,
       "posts": 0,
-      "comments": 70,
+      "comments": 0,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 1,
@@ -3685,11 +3652,33 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "hi-fi.community",
+      "domain": "wired.bluemarch.art",
       "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 4,
+      "posts": 8,
+      "comments": 15,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "l.tta.wtf",
+      "users": 3,
+      "posts": 12,
+      "comments": 24,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 1,
+      "users_active_month": 1,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "test2.lealternative.net",
+      "users": 4,
+      "posts": 6,
+      "comments": 9,
+      "communities": 1,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -3740,28 +3729,6 @@
       "users_active_half_year": 18
     },
     {
-      "domain": "lemmy.thefloatinglab.world",
-      "users": 6,
-      "posts": 1,
-      "comments": 5,
-      "communities": 4,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "gioia.news",
-      "users": 1,
-      "posts": 2,
-      "comments": 7,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.t-rg.ws",
       "users": 0,
       "posts": 521,
@@ -3784,6 +3751,17 @@
       "users_active_half_year": 0
     },
     {
+      "domain": "lemmy.thefloatinglab.world",
+      "users": 6,
+      "posts": 1,
+      "comments": 5,
+      "communities": 4,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
       "domain": "lemmy.korz.dev",
       "users": 1,
       "posts": 4,
@@ -3795,15 +3773,37 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "level-up.zone",
+      "domain": "gioia.news",
       "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 20,
+      "posts": 2,
+      "comments": 7,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
-      "users_active_half_year": 0
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.stuart.fun",
+      "users": 1,
+      "posts": 1,
+      "comments": 9,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "quadball.app",
+      "users": 3,
+      "posts": 8,
+      "comments": 2,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
     },
     {
       "domain": "nba.space",
@@ -3817,11 +3817,22 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.stuart.fun",
+      "domain": "level-up.zone",
       "users": 1,
-      "posts": 1,
-      "comments": 9,
-      "communities": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 20,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "geekroom.tech",
+      "users": 7,
+      "posts": 35,
+      "comments": 62,
+      "communities": 6,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -3850,28 +3861,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "quadball.app",
-      "users": 3,
-      "posts": 8,
-      "comments": 2,
-      "communities": 2,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "geekroom.tech",
-      "users": 7,
-      "posts": 35,
-      "comments": 62,
-      "communities": 6,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.plaureano.nohost.me",
       "users": 3,
       "posts": 5,
@@ -3883,33 +3872,22 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.spaceships.me",
-      "users": 4,
-      "posts": 25,
+      "domain": "lemmy.mistyreverie.org",
+      "users": 2,
+      "posts": 8,
       "comments": 0,
-      "communities": 5,
+      "communities": 3,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 1
     },
     {
-      "domain": "feddit.rocks",
-      "users": 365,
-      "posts": 94,
-      "comments": 29357,
-      "communities": 8,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 3
-    },
-    {
-      "domain": "lemmy.mistyreverie.org",
-      "users": 2,
-      "posts": 8,
+      "domain": "lemmy.spaceships.me",
+      "users": 4,
+      "posts": 25,
       "comments": 0,
-      "communities": 3,
+      "communities": 5,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -3949,6 +3927,17 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "feddit.rocks",
+      "users": 365,
+      "posts": 94,
+      "comments": 29357,
+      "communities": 8,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 3
+    },
+    {
       "domain": "lemmy.scam-mail.me",
       "users": 2,
       "posts": 0,
@@ -3958,6 +3947,17 @@
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.lundgrensjostrom.com",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.coupou.fr",
@@ -3993,17 +3993,6 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.lundgrensjostrom.com",
-      "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.8bitar.io",
       "users": 2,
       "posts": 0,
@@ -4017,7 +4006,7 @@
     {
       "domain": "ibbit.at",
       "users": 10,
-      "posts": 156453,
+      "posts": 156596,
       "comments": 15,
       "communities": 79,
       "users_active_day": 0,
@@ -4048,17 +4037,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.0upti.me",
-      "users": 0,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
       "domain": "lemmy.amethyst.name",
       "users": 1,
       "posts": 3,
@@ -4070,11 +4048,44 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "lemmy.0upti.me",
+      "users": 0,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "orbiting.observer",
+      "users": 10,
+      "posts": 126,
+      "comments": 258,
+      "communities": 6,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 2
+    },
+    {
       "domain": "lem.trashbrain.org",
       "users": 8,
       "posts": 10,
       "comments": 47,
       "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "communities.stormux.org",
+      "users": 7,
+      "posts": 4,
+      "comments": 1,
+      "communities": 4,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4092,28 +4103,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "orbiting.observer",
-      "users": 10,
-      "posts": 126,
-      "comments": 258,
-      "communities": 6,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "communities.stormux.org",
-      "users": 7,
-      "posts": 4,
-      "comments": 1,
-      "communities": 4,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.brandyapple.com",
       "users": 0,
       "posts": 2,
@@ -4123,6 +4112,28 @@
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.mats.ooo",
+      "users": 0,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.411426.xyz",
+      "users": 0,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
     },
     {
       "domain": "academy.garden",
@@ -4136,11 +4147,11 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.mats.ooo",
-      "users": 0,
+      "domain": "lemmy.sietch.online",
+      "users": 4,
       "posts": 0,
-      "comments": 0,
-      "communities": 0,
+      "comments": 1,
+      "communities": 1,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4158,15 +4169,15 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.xeviousx.eu",
-      "users": 3,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
+      "domain": "alien.top",
+      "users": 721658,
+      "posts": 140461,
+      "comments": 1604271,
+      "communities": 2,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
-      "users_active_half_year": 0
+      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.cryonex.net",
@@ -4180,19 +4191,19 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.sietch.online",
-      "users": 4,
-      "posts": 0,
-      "comments": 1,
-      "communities": 1,
+      "domain": "lemmy.croc.pw",
+      "users": 0,
+      "posts": 1,
+      "comments": 43,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.411426.xyz",
-      "users": 0,
+      "domain": "lemmy.xeviousx.eu",
+      "users": 3,
       "posts": 0,
       "comments": 0,
       "communities": 0,
@@ -4213,17 +4224,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.services.coupou.fr",
-      "users": 0,
-      "posts": 31,
-      "comments": 7,
-      "communities": 6,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
       "domain": "lemmy.zwanenburg.info",
       "users": 0,
       "posts": 0,
@@ -4235,11 +4235,22 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "alien.top",
-      "users": 721658,
-      "posts": 140461,
-      "comments": 1604271,
-      "communities": 2,
+      "domain": "lemmy.services.coupou.fr",
+      "users": 0,
+      "posts": 31,
+      "comments": 7,
+      "communities": 6,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.skoops.social",
+      "users": 1,
+      "posts": 1,
+      "comments": 3,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4279,28 +4290,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "cyberia.hydrar.de",
-      "users": 1,
-      "posts": 0,
-      "comments": 1,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.skoops.social",
-      "users": 1,
-      "posts": 1,
-      "comments": 3,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "waterloolemmy.ca",
       "users": 6,
       "posts": 24,
@@ -4312,18 +4301,18 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.mayer.rocks",
+      "domain": "cyberia.hydrar.de",
       "users": 1,
       "posts": 0,
-      "comments": 0,
+      "comments": 1,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
-      "users_active_half_year": 0
+      "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.exory.dev",
+      "domain": "lemmy.mayer.rocks",
       "users": 1,
       "posts": 0,
       "comments": 0,
@@ -4345,15 +4334,15 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.digitalfall.net",
-      "users": 7,
-      "posts": 8,
-      "comments": 108,
-      "communities": 2,
+      "domain": "lemmy.exory.dev",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
-      "users_active_half_year": 1
+      "users_active_half_year": 0
     },
     {
       "domain": "lemmy.lama-corp.space",
@@ -4372,6 +4361,17 @@
       "posts": 0,
       "comments": 1,
       "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.digitalfall.net",
+      "users": 7,
+      "posts": 8,
+      "comments": 108,
+      "communities": 2,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4411,10 +4411,32 @@
       "users_active_half_year": 0
     },
     {
+      "domain": "lemmini.fi",
+      "users": 6,
+      "posts": 16,
+      "comments": 9,
+      "communities": 4,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
       "domain": "lemmy.ctrlq.dev",
       "users": 2,
       "posts": 0,
       "comments": 1,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "discuss.aethelgard.space",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
@@ -4444,15 +4466,15 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "discuss.aethelgard.space",
+      "domain": "indiehackers.space",
       "users": 1,
       "posts": 0,
       "comments": 0,
-      "communities": 0,
+      "communities": 6,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
-      "users_active_half_year": 1
+      "users_active_half_year": 0
     },
     {
       "domain": "reddeet.com",
@@ -4466,26 +4488,15 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "indiehackers.space",
-      "users": 1,
+      "domain": "lm.theorionserver.com",
+      "users": 2,
       "posts": 0,
       "comments": 0,
-      "communities": 6,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "lemmy.usuck.fyi",
-      "users": 1,
-      "posts": 0,
-      "comments": 4,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
-      "users_active_half_year": 1
+      "users_active_half_year": 0
     },
     {
       "domain": "lemmy.rhymelikedi.me",
@@ -4499,17 +4510,6 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.keniir.wtf",
-      "users": 2,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
       "domain": "lemmy.nexus",
       "users": 15,
       "posts": 2,
@@ -4521,15 +4521,15 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmit.nyc.what.if.ua",
+      "domain": "lemmy.usuck.fyi",
       "users": 1,
       "posts": 0,
-      "comments": 0,
-      "communities": 1,
-      "users_active_day": 1,
+      "comments": 4,
+      "communities": 0,
+      "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
-      "users_active_half_year": 0
+      "users_active_half_year": 1
     },
     {
       "domain": "lm.korako.me",
@@ -4537,6 +4537,17 @@
       "posts": 19380,
       "comments": 519,
       "communities": 46,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "lemmy.securitycafe.ca",
+      "users": 3,
+      "posts": 1,
+      "comments": 7,
+      "communities": 1,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4565,21 +4576,10 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "test2.lealternative.net",
-      "users": 4,
-      "posts": 6,
-      "comments": 9,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "lm.boing.icu",
+      "domain": "lemmy.pos005.com",
       "users": 2,
       "posts": 0,
-      "comments": 1,
+      "comments": 3,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
@@ -4609,17 +4609,6 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.securitycafe.ca",
-      "users": 3,
-      "posts": 1,
-      "comments": 7,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 2
-    },
-    {
       "domain": "selfhosted.forum",
       "users": 4,
       "posts": 4,
@@ -4633,13 +4622,24 @@
     {
       "domain": "lemmit.online",
       "users": 3,
-      "posts": 6682726,
+      "posts": 6684132,
       "comments": 625,
       "communities": 560,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 1
+    },
+    {
+      "domain": "hi-fi.community",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 4,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
     },
     {
       "domain": "viewfinder.pro",
@@ -4662,6 +4662,17 @@
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 0
+    },
+    {
+      "domain": "lm.boing.icu",
+      "users": 2,
+      "posts": 0,
+      "comments": 1,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
     },
     {
       "domain": "maple.social",
@@ -4719,17 +4730,6 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "forum.storstad.net",
-      "users": 4,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
       "domain": "lemmy.w9r.de",
       "users": 1,
       "posts": 1,
@@ -4741,11 +4741,11 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "falconry.party",
-      "users": 2,
-      "posts": 20,
-      "comments": 6,
-      "communities": 2,
+      "domain": "forum.storstad.net",
+      "users": 4,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4763,10 +4763,10 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.installation00.org",
-      "users": 3,
+      "domain": "slevin.horse",
+      "users": 2,
       "posts": 0,
-      "comments": 0,
+      "comments": 1,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
@@ -4779,6 +4779,28 @@
       "posts": 5,
       "comments": 10,
       "communities": 3,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "falconry.party",
+      "users": 2,
+      "posts": 20,
+      "comments": 6,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.installation00.org",
+      "users": 3,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4807,22 +4829,22 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "gearhead.town",
-      "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 15,
+      "domain": "lemmy.snoot.tube",
+      "users": 3,
+      "posts": 12,
+      "comments": 17,
+      "communities": 6,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.snoot.tube",
-      "users": 3,
-      "posts": 12,
-      "comments": 17,
-      "communities": 6,
+      "domain": "gearhead.town",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 15,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4851,26 +4873,15 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lem.afiz.org",
+      "domain": "lemmy.wivodaim.ch",
       "users": 4,
-      "posts": 9,
-      "comments": 15,
-      "communities": 3,
+      "posts": 1,
+      "comments": 1,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "fjdk.uk",
-      "users": 0,
-      "posts": 1,
-      "comments": 8,
-      "communities": 0,
-      "users_active_day": 1,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
+      "users_active_half_year": 2
     },
     {
       "domain": "discuss.jacen.moe",
@@ -4884,17 +4895,6 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.wivodaim.ch",
-      "users": 4,
-      "posts": 1,
-      "comments": 1,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 2
-    },
-    {
       "domain": "lemmy.waynetec.us",
       "users": 3,
       "posts": 0,
@@ -4904,6 +4904,17 @@
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 2
+    },
+    {
+      "domain": "lem.afiz.org",
+      "users": 4,
+      "posts": 9,
+      "comments": 15,
+      "communities": 3,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
     },
     {
       "domain": "dullsters.net",
@@ -4922,17 +4933,6 @@
       "posts": 1,
       "comments": 1,
       "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "healthy.community",
-      "users": 1,
-      "posts": 0,
-      "comments": 1,
-      "communities": 6,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -4961,154 +4961,11 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "expats.zone",
-      "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 2,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "matchpoint.zone",
-      "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 3,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "lemmy.collectivemoo.net",
-      "users": 5,
-      "posts": 8,
-      "comments": 4,
-      "communities": 5,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "poweruser.forum",
-      "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 11,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "hub.edikoyo.com",
-      "users": 6,
-      "posts": 5,
-      "comments": 1,
-      "communities": 8,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "sappho.social",
-      "users": 0,
-      "posts": 0,
-      "comments": 0,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "metacritics.zone",
-      "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 13,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "nfl.community",
-      "users": 1,
-      "posts": 2,
-      "comments": 1,
-      "communities": 35,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "lululemmy.com",
-      "users": 511,
-      "posts": 43439,
-      "comments": 45902,
-      "communities": 4,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
       "domain": "blockchained.world",
       "users": 1,
       "posts": 0,
       "comments": 0,
       "communities": 10,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "lemmy.minigubben.se",
-      "users": 4,
-      "posts": 0,
-      "comments": 2,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "making.awful.systems",
-      "users": 2,
-      "posts": 58,
-      "comments": 21,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.technowizardry.net",
-      "users": 0,
-      "posts": 0,
-      "comments": 2,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "lemmy.tomateaux.com",
-      "users": 1,
-      "posts": 7,
-      "comments": 3,
-      "communities": 1,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -5126,10 +4983,98 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.maquis196.io",
+      "domain": "nfl.community",
+      "users": 1,
+      "posts": 2,
+      "comments": 1,
+      "communities": 35,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "poweruser.forum",
       "users": 1,
       "posts": 0,
       "comments": 0,
+      "communities": 11,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "making.awful.systems",
+      "users": 2,
+      "posts": 58,
+      "comments": 21,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "matchpoint.zone",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 3,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "metacritics.zone",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 13,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "sappho.social",
+      "users": 0,
+      "posts": 0,
+      "comments": 0,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lululemmy.com",
+      "users": 511,
+      "posts": 43447,
+      "comments": 45910,
+      "communities": 4,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "hub.edikoyo.com",
+      "users": 6,
+      "posts": 5,
+      "comments": 1,
+      "communities": 8,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.minigubben.se",
+      "users": 4,
+      "posts": 0,
+      "comments": 2,
       "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
@@ -5137,8 +5082,63 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "news.wigger.one",
+      "domain": "healthy.community",
+      "users": 1,
+      "posts": 0,
+      "comments": 1,
+      "communities": 6,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.technowizardry.net",
       "users": 0,
+      "posts": 0,
+      "comments": 2,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "expats.zone",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.tomateaux.com",
+      "users": 1,
+      "posts": 7,
+      "comments": 3,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.collectivemoo.net",
+      "users": 5,
+      "posts": 8,
+      "comments": 4,
+      "communities": 5,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
+    },
+    {
+      "domain": "lemmy.maquis196.io",
+      "users": 1,
       "posts": 0,
       "comments": 0,
       "communities": 0,
@@ -5159,8 +5159,41 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "news.wigger.one",
+      "users": 0,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
       "domain": "discuss.hadan.social",
       "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.dryja.dev",
+      "users": 0,
+      "posts": 0,
+      "comments": 1,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "unreachable.cloud",
+      "users": 6,
       "posts": 0,
       "comments": 0,
       "communities": 0,
@@ -5181,33 +5214,11 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.dryja.dev",
-      "users": 0,
-      "posts": 0,
-      "comments": 1,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
       "domain": "style.land",
       "users": 1,
       "posts": 0,
       "comments": 0,
       "communities": 13,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "unreachable.cloud",
-      "users": 6,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -5225,41 +5236,8 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.lantian.pub",
-      "users": 0,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
       "domain": "lemmy.dunklecat.dev",
       "users": 1,
-      "posts": 0,
-      "comments": 0,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
-      "domain": "lemmy.mio19.uk",
-      "users": 3,
-      "posts": 4,
-      "comments": 35,
-      "communities": 0,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 2
-    },
-    {
-      "domain": "lemmy.golgafrinchan.org",
-      "users": 3,
       "posts": 0,
       "comments": 0,
       "communities": 0,
@@ -5280,8 +5258,8 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lm.theorionserver.com",
-      "users": 2,
+      "domain": "lemmy.golgafrinchan.org",
+      "users": 3,
       "posts": 0,
       "comments": 0,
       "communities": 0,
@@ -5302,6 +5280,28 @@
       "users_active_half_year": 1
     },
     {
+      "domain": "lemmy.mio19.uk",
+      "users": 3,
+      "posts": 4,
+      "comments": 35,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 2
+    },
+    {
+      "domain": "l.wyatt.world",
+      "users": 1,
+      "posts": 0,
+      "comments": 0,
+      "communities": 0,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
       "domain": "lemmy.brdsnest.net",
       "users": 2,
       "posts": 0,
@@ -5313,11 +5313,11 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "l.wyatt.world",
-      "users": 1,
+      "domain": "lemmy.thc.sh",
+      "users": 3,
       "posts": 0,
-      "comments": 0,
-      "communities": 0,
+      "comments": 1,
+      "communities": 1,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -5335,11 +5335,11 @@
       "users_active_half_year": 0
     },
     {
-      "domain": "lemmy.thc.sh",
-      "users": 3,
+      "domain": "lemmy.lantian.pub",
+      "users": 0,
       "posts": 0,
-      "comments": 1,
-      "communities": 1,
+      "comments": 0,
+      "communities": 0,
       "users_active_day": 0,
       "users_active_week": 0,
       "users_active_month": 0,
@@ -5388,6 +5388,17 @@
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 0
+    },
+    {
+      "domain": "doomscroll.n8e.dev",
+      "users": 0,
+      "posts": 17,
+      "comments": 162,
+      "communities": 1,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.enticedwanderer.com",
@@ -5456,28 +5467,6 @@
       "users_active_half_year": 1
     },
     {
-      "domain": "lemmy.0xloc.org",
-      "users": 3,
-      "posts": 12,
-      "comments": 2,
-      "communities": 6,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
-    },
-    {
-      "domain": "lemmy.taxevasion.info",
-      "users": 5,
-      "posts": 3,
-      "comments": 3,
-      "communities": 2,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 0
-    },
-    {
       "domain": "lemmy.nothavingthis.co.uk",
       "users": 2,
       "posts": 0,
@@ -5487,17 +5476,6 @@
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 0
-    },
-    {
-      "domain": "doomscroll.n8e.dev",
-      "users": 0,
-      "posts": 17,
-      "comments": 162,
-      "communities": 1,
-      "users_active_day": 0,
-      "users_active_week": 0,
-      "users_active_month": 0,
-      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.izanami.moe",
@@ -5520,6 +5498,28 @@
       "users_active_week": 0,
       "users_active_month": 0,
       "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.taxevasion.info",
+      "users": 5,
+      "posts": 3,
+      "comments": 3,
+      "communities": 2,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 0
+    },
+    {
+      "domain": "lemmy.0xloc.org",
+      "users": 3,
+      "posts": 12,
+      "comments": 2,
+      "communities": 6,
+      "users_active_day": 0,
+      "users_active_week": 0,
+      "users_active_month": 0,
+      "users_active_half_year": 1
     },
     {
       "domain": "lemmy.ferg.al",
